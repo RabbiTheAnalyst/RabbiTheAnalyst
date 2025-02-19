@@ -66,4 +66,7 @@
 
 ---
 
-💡 **_"Turning Data into Insights, One Query at a Time!"_**
+---
+💡 _"Turning Data into Insights, One Query at a Time!"_
+---
+
