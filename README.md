@@ -1,9 +1,10 @@
-<tr>
+<table>
+  <tr>
     <td>
       <h1>Hi 👋, I'm Md Rabbi Ali</h1>
-      <h3><i>Educator By Day. Data Scientist By Night</i></h3 
-      <h3>B.Sc in Statistics, Islamic University , Kushtia  </h3>
-      <h3>| Python | Power BI | SQL | Excel </h3>
+      <h3><i>Educator By Day. Data Scientist By Night</i></h3> 
+      <h3>B.Sc in Statistics, Islamic University, Kushtia</h3>
+      <h3>| Python | Power BI | SQL | Excel |</h3>
       <ul>
         <li>🔹 I love analyzing data and creating dashboards</li>
         <li>🔹 Passionate about Data Science & AI</li>
@@ -18,25 +19,17 @@
 
 ---
 
-## 🚀 About Me  
-🔹 I love analyzing data and creating dashboards  
-🔹 Passionate about Data Science & AI  
-🔹 Always learning new technologies  
-
----
-
 ## 📊 GitHub Stats & Activity  
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RabbiTheAnalyst&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RabbiTheAnalyst&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RabbiTheAnalyst&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RabbiTheAnalyst&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RabbiTheAnalyst&theme=radical" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RabbiTheAnalyst&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 ---
