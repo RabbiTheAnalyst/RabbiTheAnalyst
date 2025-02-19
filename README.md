@@ -27,6 +27,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 ![AI](https://img.shields.io/badge/AI-Beginner-blue?style=for-the-badge&logo=artificialintelligence&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ## 📊 GitHub Stats & Activity  
 <p align="center">
