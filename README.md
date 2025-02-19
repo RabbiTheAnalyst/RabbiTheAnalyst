@@ -1,11 +1,20 @@
-<h1 align="center">Hi 👋, I'm Md Rabbi Ali</h1>
-<h3 align="center"><i>Educator By Day. Data Scientist By Night</i></h3>
-<h3 align="center">B.Sc in Statistics, Islamic University, Kushtia</h3>
-<h3 align="center">| Python | Power BI | SQL | Excel |</h3>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/77f2cf64-b620-457f-ae85-3662b28e4b1b" width="400" alt="Animated Data Scientist">
-</p>
+<tr>
+    <td>
+      <h1>Hi 👋, I'm Md Rabbi Ali</h1>
+      <h3><i>Educator By Day. Data Scientist By Night</i></h3 
+      <h3>B.Sc in Statistics, Islamic University , Kushtia  </h3>
+      <h3>| Python | Power BI | SQL | Excel </h3>
+      <ul>
+        <li>🔹 I love analyzing data and creating dashboards</li>
+        <li>🔹 Passionate about Data Science & AI</li>
+        <li>🔹 Always learning new technologies</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/77f2cf64-b620-457f-ae85-3662b28e4b1b" width="400" alt="Animated Data Scientist">
+    </td>
+  </tr>
+</table>
 
 ---
 
