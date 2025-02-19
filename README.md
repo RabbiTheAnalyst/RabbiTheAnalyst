@@ -27,3 +27,5 @@
 
 ---
 💡 **"Turning Data into Insights, One Query at a Time!"**
+<img src= (https://github.com/user-attachments/assets/77f2cf64-b620-457f-ae85-3662b28e4b1b) width="500" alt="Animated Data Scientist">
+
