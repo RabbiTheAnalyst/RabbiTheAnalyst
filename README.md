@@ -21,16 +21,12 @@
 ## 🔥 Profile Viewers 
 <img src="https://komarev.com/ghpvc/?username=RabbiTheAnalyst&label=PROFILE+VIEWS&style=for-the-badge&color=red" alt="Profile Views" />
 
-<div style="display: flex; flex-direction: column; gap: 5px;">
-  <img src="https://img.shields.io/badge/PYTHON-blue?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/POWER%20BI-yellow?logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/SQL-lightgrey?logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/EXCEL-green?logo=microsoft-excel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/AI-grey?logo=ai&logoColor=white" alt="AI">
-  <img src="https://img.shields.io/badge/BEGINNER-blue?logo=data&logoColor=white" alt="Beginner">
-</div>
-
-
+## 🚀 Skills  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Beginner-blue?style=for-the-badge&logo=artificialintelligence&logoColor=white)
 
 ## 📊 GitHub Stats & Activity  
 <p align="center">
