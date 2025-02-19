@@ -1,19 +1,21 @@
-<p align="right">
-  <img src="https://github.com/user-attachments/assets/77f2cf64-b620-457f-ae85-3662b28e4b1b" width="500" alt="Animated Data Scientist">
-</p>
 
-# Hi 👋, I'm Md Rabbi Ali  
+<table>
+  <tr>
+    <td>
+      <h1>Hi 👋, I'm Md Rabbi Ali</h1>
+      <h3>Data Analyst | SQL | Power BI | Python</h3>
+      <ul>
+        <li>🔹 I love analyzing data and creating dashboards</li>
+        <li>🔹 Passionate about Data Science & AI</li>
+        <li>🔹 Always learning new technologies</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/77f2cf64-b620-457f-ae85-3662b28e4b1b" width="400" alt="Animated Data Scientist">
+    </td>
+  </tr>
+</table>
 
-## 🚀 Educator by Day, Data Analyst by Night  
-
-### 📊 Passionate about Data Analytics & Machine Learning
-
-- 🔍 I work on **SQL, Power BI, Python, Excel and Data Analysis Projects**
-- 📈 I love sharing knowledge through **articles & projects**
-- 📌 Ask me about **Data Science, Power BI, Python Excel and SQL**
-- 🎯 Currently learning **Google Cloud Data Analytics & Advanced Statistics**
-- 🎓 **B.Sc in Statistics ,Islamic University, Kushtia** | Internship: **Data Science @ Codsoft**
-- 🌱 Improving **Python for Data Analysts** and contributing to **open-source projects**
 
 ## 📂 Featured Projects  
 🚀 [Bike Share Data Analysis](https://github.com/RabbiTheAnalyst/Bike-Share-Data-Analysis)  
