@@ -60,8 +60,9 @@
 ---
 
 ## 📩 How to Reach Me  
-📧 Email: rabbi.stat.iu@gmail.com  
-📞 Phone: 01798532112  
+📧 **Email:** [rabbi.stat.iu@gmail.com](mailto:rabbi.stat.iu@gmail.com)  
+📞 **Phone:** +880 1798-532112  
+ 
 
 ---
 
