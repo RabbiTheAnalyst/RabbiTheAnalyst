@@ -18,6 +18,10 @@
 </table>
 
 ---
+## 🔥 Profile Views  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RabbiTheAnalyst&label=PROFILE+VIEWS&style=for-the-badge&color=red" alt="Profile Views" />
+</p>
 
 ## 📊 GitHub Stats & Activity  
 <p align="center">
