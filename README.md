@@ -15,6 +15,7 @@
 🚀 [Bike Share Data Analysis](https://github.com/RabbiTheAnalyst/Bike-Share-Data-Analysis)  
 🏦 [Bank Loan Data Analysis](https://github.com/RabbiTheAnalyst/-Bank-Loan-Data-Analysis-)
 📊 [Titanic Data Set Analysis using Python](https://www.kaggle.com/code/mdrabbiali/titanic-dataset-eda-logistic-regression)
+
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rabbitheanalyst)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/RabbiTheAnalyst)  
