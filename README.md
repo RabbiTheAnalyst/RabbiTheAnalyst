@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <h1>Hi 👋, I'm Md Rabbi Ali</h1>
+      <h1>Hi 👋, I'm <span style="color:#f39c12;">Md Rabbi Ali</span></h1>
       <h3><i>Educator By Day. Data Scientist By Night</i></h3> 
       <h3>B.Sc in Statistics, Islamic University, Kushtia</h3>
       <h3>| Python | Power BI | SQL | Excel |</h3>
