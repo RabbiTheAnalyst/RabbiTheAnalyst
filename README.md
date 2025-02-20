@@ -73,6 +73,6 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-RabbiTheAnalyst-red?style=for-the-badge" alt="Made with ❤️ by Md. Rabbi Ali">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Md. Rabbi Ali-red?style=for-the-badge" alt="Made with ❤️ by Md. Rabbi Ali">
 </p>
 
