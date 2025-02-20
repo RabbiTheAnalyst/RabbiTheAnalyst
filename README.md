@@ -45,7 +45,7 @@
 ---
 
 ## 📂 Featured Projects  
-🚀 [Bike Share Data Analysis](https://github.com/RabbiTheAnalyst/Bike-Share-Data-Analysis)  
+🚀 [Bike Share Data Analysis](https://github.com/RabbiTheAnalyst/Bike-Share-Data-Analysis)  - Comprehensive analysis of bike share data to understand usage trends
 🏦 [Bank Loan Data Analysis](https://github.com/RabbiTheAnalyst/-Bank-Loan-Data-Analysis-)  
 📊 [Titanic Data Set Analysis using Python](https://www.kaggle.com/code/mdrabbiali/titanic-dataset-eda-logistic-regression)  
 
