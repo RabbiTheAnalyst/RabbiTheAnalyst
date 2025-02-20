@@ -82,8 +82,9 @@
 ---
 
 ---
-<h1 align="center">Hi 👋, <span style="color:#f39c12;">Md Rabbi Ali</span></h1>  
- <li> Professional Data Analyst</li>
+<h1 align="center"><span style="color:#f39c12;">Md Rabbi Ali</span></h1>  
+<li align="center"><span style="color:#f39c12;">Md Rabbi Ali</span></li>
+
 
 
 ---
