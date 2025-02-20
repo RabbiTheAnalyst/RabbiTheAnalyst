@@ -81,14 +81,10 @@
 <h3 align="center"><i> 💡 "Numbers don’t lie, but they need the right mind to reveal the truth"🌙</i></h3>
 ---
 
-<p align="center">
-  <span style="font-size: 40px; font-weight: bold; color: #FF5733; background-color: #222222; padding: 15px; border-radius: 12px;">
-    💡 "Numbers don’t lie, but they need the right mind to reveal the truth"
-  </span>
-</p>
-
 ---
-<h1 align="center">Hi 👋, I'm <span style="color:#f39c12;">Md Rabbi Ali</span></h1>
+<h1 align="center">Hi 👋, <span style="color:#f39c12;">Md Rabbi Ali</span></h1>  
+ <li> Professional Data Analyst</li>
+
 
 ---
 
