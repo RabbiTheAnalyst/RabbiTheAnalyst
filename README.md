@@ -74,7 +74,6 @@
     <img src="https://img.shields.io/badge/Telegram-just%20send%20me%20a%20message-1E90FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
-
 ---
 ---  
 
@@ -86,8 +85,6 @@
 
 ---  
 ---
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Md. Rabbi Ali-red?style=for-the-badge" alt="Made with ❤️ by Md. Rabbi Ali">
 </p>
