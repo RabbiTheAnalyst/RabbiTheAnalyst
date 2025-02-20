@@ -31,8 +31,6 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 ![AI](https://img.shields.io/badge/AI-Beginner-blue?style=for-the-badge&logo=artificialintelligence&logoColor=white)  
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
@@ -79,7 +77,16 @@
 
 ---
 
-💡 _"Keep Calm and Let the Data Speak!"_
+---
+
+<p align="center">
+  <span style="font-size: 30px; font-weight: bold; color: #FF5733; background-color: #000000; padding: 10px; border-radius: 8px;">
+    💡 "Keep Calm and Let the Data Speak!"
+  </span>
+</p>
+
+---
+
 
 ---
 
