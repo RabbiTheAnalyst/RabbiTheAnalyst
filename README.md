@@ -59,6 +59,14 @@
   <a href="https://www.kaggle.com/mdrabbiali"><img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle" alt="Kaggle"></a>
 </p>
 
+
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/rabbitheanalyst"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/RabbiTheAnalyst"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.kaggle.com/mdrabbiali"><img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle" alt="Kaggle"></a>
+</p>
+
 ---
 
 ## 📩 How to Reach Me  
