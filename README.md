@@ -78,12 +78,12 @@
 ---
 
 ---
-
+<h3 align="center"><i> 💡 "Numbers don’t lie, but they need the right mind to reveal the truth"🌙</i></h3>
 ---
 
 <p align="center">
   <span style="font-size: 40px; font-weight: bold; color: #FF5733; background-color: #222222; padding: 15px; border-radius: 12px;">
-    💡 "Keep Calm and Let the Data Speak!"
+    💡 "Numbers don’t lie, but they need the right mind to reveal the truth"
   </span>
 </p>
 
