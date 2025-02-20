@@ -67,8 +67,10 @@
 </a>
 <br>
 <a href="https://t.me/Rabbi_Bhai" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Contact%20Me-just%20send%20me%20a%20message-1E90FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/Telegram-just%20send%20me%20a%20message-1E90FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
+
+
 
 
 
