@@ -76,29 +76,15 @@
 </p>
 
 ---
-
----
-<h3 align="center"><i> 💡 "Numbers don’t lie, but they need the right mind to reveal the truth"🌙</i></h3>
----
-
----
-<h1 align="center"><span style="color:#f39c12;">Md Rabbi Ali</span></h1>  
-<li align="center"><span style="color:#f39c12;">Professional Data Analyst</span></li>
-
-
-
----
-
-
 ---  
 
----
+
 <h2 align="center">💡 Numbers don’t lie, but they need the right mind to reveal the truth 🌙</h2>
----
 
 <h1 align="center" style="color:#f39c12;">Md Rabbi Ali</h1>  
 <h3 align="center" style="color:#f39c12;">💼 Professional Data Analyst</h3>
 
+---  
 ---
 
 
