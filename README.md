@@ -63,31 +63,14 @@
 
 ## 📩 How to Reach Me    
 <a href="mailto:rabbi.stat.iu@gmail.com" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Email-just send me an email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-just%20send%20me%20an%20email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <br>
 <a href="https://t.me/Rabbi_Bhai" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Contact%20Me-1E90FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/Contact%20Me-just%20send%20me%20a%20message-1E90FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 
 
-
-<br>
-<a href="mailto:rabbi.stat.iu@gmail.com" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Let%27s%20connect!-rabbi.stat.iu%40gmail.com-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<br>
-<a href="https://t.me/Rabbi_Bhai" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Contact%20Me-1E90FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a> 
-
-
-
-
-
-
-
- 
 
 ---
 
