@@ -68,6 +68,14 @@
 <br>
 <a href="https://t.me/Rabbi_Bhai" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Contact%20Me-1E90FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>  
+<br>
+<a href="mailto:rabbi.stat.iu@gmail.com" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/EMAIL-rabbi.stat.iu%40gmail.com-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<br>
+<a href="https://t.me/Rabbi_Bhai" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Contact%20Me-1E90FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 
 
