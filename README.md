@@ -64,7 +64,8 @@
 ## 📩 How to Reach Me  
 📧 **Email:** [rabbi.stat.iu@gmail.com](mailto:rabbi.stat.iu@gmail.com)  
 📞 **Phone:** +880 1798-532112  
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-FF6F61?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/[yourusername](https://t.me/Rabbi_Bhai))
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-FF6F61?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rabbi_Bhai)
+
  
 
 ---
