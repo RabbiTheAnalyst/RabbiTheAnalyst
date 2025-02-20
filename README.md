@@ -75,19 +75,15 @@
   </a>
 </p>  
 
----  
-
----  
-
-
-
 <h2 align="center">💡 Numbers don’t lie, but they need the right mind to reveal the truth 🌙</h2>
+
+---
 
 <h1 align="center" style="color:#f39c12;">Md Rabbi Ali</h1>  
 <h3 align="center" style="color:#f39c12;">💼 Professional Data Analyst</h3>
 
----  
 ---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Md. Rabbi Ali-red?style=for-the-badge" alt="Made with ❤️ by Md. Rabbi Ali">
 </p>
