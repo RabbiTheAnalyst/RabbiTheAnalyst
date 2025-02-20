@@ -71,11 +71,8 @@
 ---
 💡 _"Keep Calm and Let the Data Speak!"_
 ---
----
-💡 _"Keep Calm and Let the Data Speak!"_
----
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-RabbiTheAnalyst-red?style=for-the-badge" alt="Made with ❤️ by RabbiTheAnalyst">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-RabbiTheAnalyst-red?style=for-the-badge" alt="Made with ❤️ by Md. Rabbi Ali">
 </p>
 
