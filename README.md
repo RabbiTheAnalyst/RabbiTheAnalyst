@@ -68,6 +68,6 @@
 ---
 
 ---
-💡 _"Turning Data into Insights, One Query at a Time!"_
+💡 _"Keep Calm and Let the Data Speak!"_
 ---
 
