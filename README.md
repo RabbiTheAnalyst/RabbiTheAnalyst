@@ -73,9 +73,12 @@
   <a href="https://t.me/Rabbi_Bhai" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Telegram-just%20send%20me%20a%20message-1E90FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-</p>
+</p>  
+
 ---  
+
 ---  
+
 
 
 <h2 align="center">💡 Numbers don’t lie, but they need the right mind to reveal the truth 🌙</h2>
