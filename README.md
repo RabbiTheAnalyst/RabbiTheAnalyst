@@ -63,7 +63,14 @@
 
 ## 📩 How to Reach Me  
 📧 **Email:** [rabbi.stat.iu@gmail.com](mailto:rabbi.stat.iu@gmail.com)  
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-FF6F61?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rabbi_Bhai)
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-FF6F61?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rabbi_Bhai)  
+<a href="mailto:rabbi.stat.iu@gmail.com" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Email-%40rabbi.stat.iu-FF6F61?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://t.me/Rabbi_Bhai" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Contact%20Me-FF6F61?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
 
  
 
