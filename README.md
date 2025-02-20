@@ -4,7 +4,7 @@
       <h1 align="center">Hi 👋, I'm <span style="color:#f39c12;">Md Rabbi Ali</span></h1>
       <h3 align="center"><i>Educator By Day. Data Scientist By Night 🌙</i></h3>
       <h3>B.Sc in Statistics, Islamic University, Kushtia</h3>
-      <h3>| Python | Power BI | SQL | Excel |</h3>
+      <h3>| Python | Power BI | SQL | Excel | AI |</h3>
       <ul>
         <li>🔹 I love analyzing data and creating dashboards</li>
         <li>🔹 Passionate about Data Science & AI</li>
@@ -18,8 +18,11 @@
 </table>
 
 ---
+
 ## 🔥 Profile Viewers 
 <img src="https://komarev.com/ghpvc/?username=RabbiTheAnalyst&label=PROFILE+VIEWS&style=for-the-badge&color=red" alt="Profile Views" />
+
+---
 
 ## 🚀 Skills 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -27,7 +30,11 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 ![AI](https://img.shields.io/badge/AI-Beginner-blue?style=for-the-badge&logo=artificialintelligence&logoColor=white)  
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats & Activity  
 <p align="center">
@@ -41,7 +48,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RabbiTheAnalyst&theme=tokyonight" alt="Profile Summary" />
 </p>
-
 
 ---
 
@@ -62,25 +68,21 @@
 ---
 
 ## 📩 How to Reach Me    
-<a href="mailto:rabbi.stat.iu@gmail.com" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Email-just%20send%20me%20an%20email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<br>
-<a href="https://t.me/Rabbi_Bhai" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Telegram-just%20send%20me%20a%20message-1E90FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-
-
-
-
+<p align="center">
+  <a href="mailto:rabbi.stat.iu@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-just%20send%20me%20an%20email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/Rabbi_Bhai" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Telegram-just%20send%20me%20a%20message-1E90FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
 
 ---
 
----
 💡 _"Keep Calm and Let the Data Speak!"_
+
 ---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Md. Rabbi Ali-red?style=for-the-badge" alt="Made with ❤️ by Md. Rabbi Ali">
 </p>
-
