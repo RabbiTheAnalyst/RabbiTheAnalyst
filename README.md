@@ -79,11 +79,16 @@
 
 ---
 
+---
+
 <p align="center">
-  <span style="font-size: 30px; font-weight: bold; color: #FF5733; background-color: #000000; padding: 10px; border-radius: 8px;">
+  <span style="font-size: 40px; font-weight: bold; color: #FF5733; background-color: #222222; padding: 15px; border-radius: 12px;">
     💡 "Keep Calm and Let the Data Speak!"
   </span>
 </p>
+
+---
+
 
 ---
 
