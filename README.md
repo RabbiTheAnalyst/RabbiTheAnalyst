@@ -3,13 +3,7 @@
     <td>
       <h1 align="center">Hi 👋, I'm <span style="color:#f39c12;">Md Rabbi Ali</span></h1>
       <h3 align="center"><i>Educator By Day. Data Scientist By Night 🌙</i></h3>
-      <h3>B.Sc in Statistics, Islamic University, Kushtia</h3>
-      <h3>| Python | Power BI | SQL | Excel | AI |</h3>
-      <ul>
-        <li>🔹 I love analyzing data and creating dashboards</li>
-        <li>🔹 Passionate about Data Science & AI</li>
-        <li>🔹 Always learning new technologies</li>
-      </ul>
+      <h3>B.Sc in Statistics, Islamic University, Kushtia</h3>  
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/77f2cf64-b620-457f-ae85-3662b28e4b1b" width="400" alt="Animated Data Scientist">
@@ -19,12 +13,14 @@
 
 ---
 
+
+
 ## 🔥 Profile Viewers 
 <img src="https://komarev.com/ghpvc/?username=RabbiTheAnalyst&label=PROFILE+VIEWS&style=for-the-badge&color=red" alt="Profile Views" />
 
 ---
 
-## 🚀 Skills 
+## 🛠 Skills 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
