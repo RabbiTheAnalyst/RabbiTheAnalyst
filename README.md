@@ -41,7 +41,7 @@
 ---
 
 ## 📂 Featured Projects  
-📊 [My-Written-Book-Statistics-For-Data-Analysts](https://github.com/RabbiTheAnalyst/My-Written-Book-Statistics-For-Data-Analysts/blob/main/Stat-Book-for-Data-Analyst%20.pdf) 
+📊 [My-Written-Book-Statistics-For-Data-Analysts](https://github.com/RabbiTheAnalyst/My-Written-Book-Statistics-For-Data-Analysts/blob/main/Stat-Book-for-Data-Analyst%20.pdf)  
 🚀 [Bike Share Data Analysis](https://github.com/RabbiTheAnalyst/Bike-Share-Data-Analysis)  
 🏦 [Bank Loan Data Analysis](https://github.com/RabbiTheAnalyst/-Bank-Loan-Data-Analysis-)  
 📊 [Titanic Data Set Analysis using Python](https://www.kaggle.com/code/mdrabbiali/titanic-dataset-eda-logistic-regression)  
