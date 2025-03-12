@@ -45,7 +45,8 @@
 🚀 [Bike Share Data Analysis](https://github.com/RabbiTheAnalyst/Bike-Share-Data-Analysis)  
 🏦 [Bank Loan Data Analysis](https://github.com/RabbiTheAnalyst/-Bank-Loan-Data-Analysis-)  
 📊 [Titanic Data Set Analysis using Python](https://www.kaggle.com/code/mdrabbiali/titanic-dataset-eda-logistic-regression)  
-   [CODSOFT](https://github.com/RabbiTheAnalyst/CODSOFT)  
+## 🚀 [CODSOFT](https://github.com/RabbiTheAnalyst/CODSOFT)
+
 
 ---
 
