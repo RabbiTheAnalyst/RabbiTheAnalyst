@@ -39,6 +39,27 @@
  
 
 ---
+## 🏆 GitHub Achievements & Contributions
+
+**🔥 GitHub Streak**  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RabbiTheAnalyst&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+**📊 GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RabbiTheAnalyst&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+**🌟 GitHub Achievements**  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RabbiTheAnalyst&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+**📈 Contributions Overview**  
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RabbiTheAnalyst&theme=tokyonight" alt="GitHub Contributions" />
+</p>
 
 ## 📊 GitHub Stats & Activity  
 <p align="center">
