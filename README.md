@@ -1,9 +1,7 @@
 
-  <td>
-      <h1 align="center">Hi 👋, I'm <span style="color:#f39c12;">Md Rabbi Ali</span></h1>
-      <h2 align="center"><i>Educator By Day. Data Scientist By Night 🌙</i></h2>
-      <h3 align="center"><i>B.Sc in Statistics,Islamic University,Kushtia</i></h3> 
-    </td>
+  <h1 align="center">Hi 👋, I'm <span style="color:#f39c12;">Md Rabbi Ali</span></h1>
+<h2 align="center"><i>Educator by Day. Data Scientist by Night 🌙</i></h2>
+<h3 align="center"><i>B.Sc in Statistics, Islamic University, Kushtia</i></h3>
 
 
 ---
