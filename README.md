@@ -108,13 +108,13 @@
 ## 📩 How to Reach Me  
 <p align="center">
   <a href="mailto:rabbi.stat.iu@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-rabbi.stat.iu@gmail.com-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://t.me/Rabbi_Bhai" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Telegram-@Rabbi_Bhai-1E90FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-1E90FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://wa.me/01740083864" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/WhatsApp-+8801740083864-1E90FF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-1E90FF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>  
 
