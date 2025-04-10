@@ -39,11 +39,21 @@
 ---
 
 ## 📂 Featured Projects  
-📊 [My-Written-Book-Statistics-For-Data-Analysts](https://github.com/RabbiTheAnalyst/My-Written-Book-Statistics-For-Data-Analysts/blob/main/Stat-Book-for-Data-Analyst%20.pdf)  
-🚀 [Bike Share Data Analysis](https://github.com/RabbiTheAnalyst/Bike-Share-Data-Analysis)  
+
+📘 [My-Written-Book-Statistics-For-Data-Analysts](https://github.com/RabbiTheAnalyst/My-Written-Book-Statistics-For-Data-Analysts/blob/main/Stat-Book-for-Data-Analyst%20.pdf)  
+✍️ A self-written LaTeX book covering core statistical concepts tailored for aspiring Data Analysts.
+
+🚴 [Bike Share Data Analysis](https://github.com/RabbiTheAnalyst/Bike-Share-Data-Analysis)  
+🔍 Exploratory analysis using Excel, SQL, and Power BI to uncover city-wise trends in bike usage.
+
 🏦 [Bank Loan Data Analysis](https://github.com/RabbiTheAnalyst/-Bank-Loan-Data-Analysis-)  
-📊 [Titanic Data Set Analysis using Python](https://www.kaggle.com/code/mdrabbiali/titanic-dataset-eda-logistic-regression)    
-🚀 [CODSOFT](https://github.com/RabbiTheAnalyst/CODSOFT)
+📊 An end-to-end dashboard and analysis on loan approvals and risk assessment using Power BI.
+
+🚢 [Titanic Dataset Analysis using Python](https://www.kaggle.com/code/mdrabbiali/titanic-dataset-eda-logistic-regression)  
+📈 Performed EDA and Logistic Regression to predict passenger survival using Python & Scikit-learn.
+
+💼 [CodSoft Internship Projects](https://github.com/RabbiTheAnalyst/CODSOFT)  
+🚀 Internship tasks and projects under the Data Science domain with CodSoft.
 
 
 ---
