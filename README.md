@@ -39,19 +39,17 @@
  
 
 --- 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Achievements & Contributions
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=RabbiTheAnalyst&theme=algolia&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
 </p>
 
-## 🔥 Contributions & Streaks
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RabbiTheAnalyst&theme=dark&hide_border=true&date_format=M%20j%2C%20Y" alt="GitHub Streak" />
 </p>
 
-## 📈 More GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RabbiTheAnalyst&show_icons=true&theme=tokyonight&hide=contribs,prs&include_all_commits=true" alt="GitHub Stats" />
 </p>
