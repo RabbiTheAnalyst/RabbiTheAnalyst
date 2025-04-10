@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="[https://via.placeholder.com/1200x300.png?text=Data+Analytics+Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fdata-analysis-business-marketing-analytics-concept-big-data-internet-marketing-flat-design-vector-line-illustration-data-image114218337&psig=AOvVaw2IHElTFDedLSn3TjUMtmqM&ust=1744348787178000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOio-OPbzIwDFQAAAAAdAAAAABAE)" alt="Banner" />
-</p>
-
-  <h1 align="center">Hi 👋, I'm <span style="color:#f39c12;">Md Rabbi Ali</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#f39c12;">Md Rabbi Ali</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=F39C12&center=true&vCenter=true&width=600&height=50&duration=2500&lines=Educator+by+Day+%7C+Data+Scientist+by+Night+%F0%9F%8C%99;Data+Driven+Decision+Making%21;Always+Learning+%7C+Always+Evolving%21;Turning+Raw+Data+Into+Winning+Insight%21;Python+%7C+Power+BI+%7C+SQL+%7C+Excel+%7C" alt="Typing Animation" />
