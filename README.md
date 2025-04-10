@@ -6,7 +6,7 @@
 
 ---
 ## 🚀 About Me  
-🎯 I am a passionate **Junior Data Analyst** and **Data Science Intern** with a keen eye for uncovering actionable insights from data. My journey revolves around transforming complex datasets into simple, understandable stories that drive decisions. From **business analytics** to **predictive modeling**, I focus on making data-driven solutions that deliver measurable impact!
+🎯 I am a passionate ** Data Analyst** and **Data scientist** with a keen eye for uncovering actionable insights from data. My journey revolves around transforming complex datasets into simple, understandable stories that drive decisions. From **business analytics** to **predictive modeling**, I focus on making data-driven solutions that deliver measurable impact!
 
 🔥 Specialized in:
 
