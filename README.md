@@ -5,7 +5,19 @@
 
 
 ---
+## 🚀 About Me
+<p align="center">
+🎯 I’m a passionate data analyst who loves uncovering hidden insights, predicting trends, and making numbers tell compelling stories. Whether it's cricket analytics, business intelligence, or predictive modeling, I thrive on making data work smarter!
+</p>
 
+<p align="center">
+🔥 <b>Specialized in:</b><br>
+📊 Interactive dashboards & visualizations with Power BI & Tableau<br>
+🏏 Sports Analytics: Predicting match-winners & player performance<br>
+🔍 Data Wrangling & Transformation: Turning raw data into actionable insights<br>
+⚡ SQL & Python Automation: Writing optimized queries & automating workflows<br>
+🤖 Machine Learning: Exploring AI-driven insights for business & sports
+</p>
 
 
 ## 🔥 Profile Viewers 
