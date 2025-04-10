@@ -38,7 +38,32 @@
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
  
 
----
+--- 
+## 🏆 GitHub Achievements
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RabbiTheAnalyst&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+## 🔥 Contributions & Streaks
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RabbiTheAnalyst&theme=dark&hide_border=true&date_format=M%20j%2C%20Y" alt="GitHub Streak" />
+</p>
+
+## 📈 More GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RabbiTheAnalyst&show_icons=true&theme=tokyonight&hide=contribs,prs&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabbiTheAnalyst&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RabbiTheAnalyst&theme=tokyonight" alt="Profile Summary" />
+</p>
+
 ## 📊 GitHub Stats & Activity  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RabbiTheAnalyst&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
