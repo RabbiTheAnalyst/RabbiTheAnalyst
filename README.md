@@ -9,7 +9,7 @@
 
 
 ## 🔥 Profile Viewers 
-<img src="https://komarev.com/ghpvc/?username=RabbiTheAnalyst&label=Profile+views&style=for-the-badge&color=red" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=RabbiTheAnalyst&label=Profile+views&style=for-the-badge&color=0e76a8" alt="Profile Views" />
 
 ---
 
