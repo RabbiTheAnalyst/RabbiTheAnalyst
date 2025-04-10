@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://via.placeholder.com/1200x300.png?text=Data+Analytics+Banner" alt="Banner" />
+</p>
 
   <h1 align="center">Hi 👋, I'm <span style="color:#f39c12;">Md Rabbi Ali</span></h1>
 
