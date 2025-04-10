@@ -66,7 +66,7 @@
 ## 📜 Certifications
 
 **Data & Analytics**  
-[<img src="https://img.shields.io/badge/Microsoft_Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">]({Certification_Link})  
+[<img src="https://img.shields.io/badge/Microsoft_Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">]({https://shorturl.at/YjcFg})  
 [<img src="https://img.shields.io/badge/Python_Data_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Data Analysis">]({Certification_Link})  
 [<img src="https://img.shields.io/badge/Excel_Business_Analytics-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">]({Certification_Link})  
 
