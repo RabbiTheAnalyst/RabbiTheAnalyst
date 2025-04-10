@@ -64,18 +64,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RabbiTheAnalyst&theme=tokyonight" alt="Profile Summary" />
 </p>
 
-## 📊 GitHub Stats & Activity  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RabbiTheAnalyst&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RabbiTheAnalyst&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RabbiTheAnalyst&theme=tokyonight" alt="Profile Summary" />
-</p> 
 
 ---
 
