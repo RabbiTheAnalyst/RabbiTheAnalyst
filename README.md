@@ -5,19 +5,28 @@
 
 
 ---
-## 🚀 About Me
+## 🚀 About Me  
+🎯 I am a passionate **Junior Data Analyst** and **Data Science Intern** with a keen eye for uncovering actionable insights from data. My journey revolves around transforming complex datasets into simple, understandable stories that drive decisions. From **business analytics** to **predictive modeling**, I focus on making data-driven solutions that deliver measurable impact!
+
+🔥 Specialized in:
+
+📊 **Data Visualization**: Creating interactive, insightful dashboards with **Power BI** and **Excel**  
+📝 **Data Analysis**: Handling and analyzing large datasets with **SQL** and **Python**  
+💻 **Automation**: Automating repetitive tasks and workflows with **Python** and **SQL**  
+⚡ **Predictive Analytics**: Building models for **business intelligence**, **sports analytics**, and more  
+🧠 **Machine Learning**: Exploring and implementing **AI**-driven solutions for real-world problems
+
+---
+
+### 🌐 Connect with Me  
 <p align="center">
-🎯 I’m a passionate data analyst who loves uncovering hidden insights, predicting trends, and making numbers tell compelling stories. Whether it's cricket analytics, business intelligence, or predictive modeling, I thrive on making data work smarter!
+  <a href="https://linkedin.com/in/rabbitheanalyst"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/RabbiTheAnalyst"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.kaggle.com/mdrabbiali"><img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle" alt="Kaggle"></a>
 </p>
 
-<p align="center">
-🔥 <b>Specialized in:</b><br>
-📊 Interactive dashboards & visualizations with Power BI & Tableau<br>
-🏏 Sports Analytics: Predicting match-winners & player performance<br>
-🔍 Data Wrangling & Transformation: Turning raw data into actionable insights<br>
-⚡ SQL & Python Automation: Writing optimized queries & automating workflows<br>
-🤖 Machine Learning: Exploring AI-driven insights for business & sports
-</p>
+---
+
 
 
 ## 🔥 Profile Viewers 
