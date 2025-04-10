@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Data+Analytics+Banner" alt="Banner" />
+  <img src="[https://via.placeholder.com/1200x300.png?text=Data+Analytics+Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fdata-analysis-business-marketing-analytics-concept-big-data-internet-marketing-flat-design-vector-line-illustration-data-image114218337&psig=AOvVaw2IHElTFDedLSn3TjUMtmqM&ust=1744348787178000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOio-OPbzIwDFQAAAAAdAAAAABAE)" alt="Banner" />
 </p>
 
   <h1 align="center">Hi 👋, I'm <span style="color:#f39c12;">Md Rabbi Ali</span></h1>
