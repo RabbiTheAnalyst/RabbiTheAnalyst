@@ -61,6 +61,21 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
  
+---
+
+## 📜 Certifications
+
+**Data & Analytics**  
+[<img src="https://img.shields.io/badge/Microsoft_Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">]({Certification_Link})  
+[<img src="https://img.shields.io/badge/Python_Data_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Data Analysis">]({Certification_Link})  
+[<img src="https://img.shields.io/badge/Excel_Business_Analytics-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">]({Certification_Link})  
+
+**AI/ML**  
+[<img.shields.io/badge/AI_for_Beginners-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI">]({Certification_Link})  
+
+*(Click badges to verify credentials)*  
+
+---
 
 --- 
 ## 🏆 GitHub Achievements & Contributions
