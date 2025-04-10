@@ -1,9 +1,12 @@
 
   <h1 align="center">Hi 👋, I'm <span style="color:#f39c12;">Md Rabbi Ali</span></h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=F39C12¢er=true&vCenter=true&width=600&height=50&duration=2500&lines=Educator+by+Day+%7C+Data+Scientist+by+Night+%F0%9F%8C%99;Data+Driven+Decision+Making%21;Always+Learning+%7C+Always+Evolving%21;Turning+Raw+Data+Into+Winning+Insight%21;Python+%7C+Power+BI+%7C+SQL+%7C+Excel" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=F39C12&center=true&vCenter=true&width=600&height=50&duration=2500&lines=Educator+by+Day+%7C+Data+Scientist+by+Night+%F0%9F%8C%99;Data+Driven+Decision+Making%21;Always+Learning+%7C+Always+Evolving%21;Turning+Raw+Data+Into+Winning+Insight%21;Python+%7C+Power+BI+%7C+SQL+%7C+Excel" alt="Typing Animation" />
 </p>
+
 <h3 align="center"><i style="color:#D5D8DC;">B.Sc in Statistics, Islamic University, Kushtia</i></h3>
+
 
 
 ---
