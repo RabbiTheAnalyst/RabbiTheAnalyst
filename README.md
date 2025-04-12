@@ -33,8 +33,8 @@
 
 
 
-## 🔥 Profile Viewers
-<img src="https://visitor-badge.laobi.icu/badge?page_id=RabbiTheAnalyst.RabbiTheAnalyst&style=for-the-badge&color=2ECC71" alt="Profile Views" /> 
+## 🔥 Profile Viewers 
+<img src="https://komarev.com/ghpvc/?username=RabbiTheAnalyst&label=Profile%20Views&style=for-the-badge&color=2ECC71" alt="Profile Views" />  
 
 
 ## 🛠 Tech Stack & Tools
