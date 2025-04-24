@@ -141,4 +141,5 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Md. Rabbi Ali-red?style=for-the-badge" alt="Made with ❤️ by Md. Rabbi Ali">
-</p>
+</p>  
+![Snake animation](https://github.com/RabbiTheAnalyst/RabbiTheAnalyst/blob/output/github-contribution-grid-snake-dark.svg)
