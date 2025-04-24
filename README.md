@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#f39c12;">Md Rabbi Ali</span></h1>
+
+  <h1 align="center">Hi 👋, I'm <span style="color:#f39c12;">Md Rabbi Ali</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=F39C12&center=true&vCenter=true&width=600&height=50&duration=2500&lines=Educator+by+Day+%7C+Data+Scientist+by+Night+%F0%9F%8C%99;Data+Driven+Decision+Making%21;Always+Learning+%7C+Always+Evolving%21;Turning+Raw+Data+Into+Winning+Insight%21;Python+%7C+Power+BI+%7C+SQL+%7C+Excel+%7C" alt="Typing Animation" />
 </p>
 
 <h3 align="center"><i style="color:#D5D8DC;">B.Sc in Statistics, Islamic University, Kushtia</i></h3>
+
+
 
 ---
 ## 🚀 About Me  
@@ -19,6 +22,7 @@
 🧠 **Machine Learning**: Exploring and implementing **AI**-driven solutions for real-world problems
 
 ---
+
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="https://linkedin.com/in/rabbitheanalyst"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -26,8 +30,12 @@
 </p>
 
 ---
+
+
+
 ## 🔥 Profile Viewers 
 <img src="https://komarev.com/ghpvc/?username=RabbiTheAnalyst&label=Profile%20Views&style=for-the-badge&color=2ECC71" alt="Profile Views" />  
+
 
 ## 🛠 Tech Stack & Tools
 
@@ -53,6 +61,8 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
  
+
+
 --- 
 ## 🏆 GitHub Achievements & Contributions
 <p align="center">
@@ -77,12 +87,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RabbiTheAnalyst&theme=tokyonight" alt="Profile Summary" />
 </p>
 
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://github.com/RabbiTheAnalyst/RabbiTheAnalyst/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ---
+
 ## 📂 Featured Projects  
 
 📘 [My-Written-Book-Statistics-For-Data-Analysts](https://github.com/RabbiTheAnalyst/My-Written-Book-Statistics-For-Data-Analysts/blob/main/Stat-Book-for-Data-Analyst%20.pdf)  
@@ -100,7 +107,9 @@
 💼 [CodSoft Internship Projects](https://github.com/RabbiTheAnalyst/CODSOFT)  
 🚀 Internship tasks and projects under the Data Science domain with CodSoft.
 
+
 --- 
+
 ## 📩 How to Reach Me  
 <p align="center">
   <a href="mailto:rabbi.stat.iu@gmail.com" style="text-decoration: none;">
@@ -114,12 +123,16 @@
   </a>
 </p>  
 <p align="center">
-  💡 Let's collaborate and explore the world of data together! 🚀
+  💡 Let’s collaborate and explore the world of data together! 🚀
 </p>
 
 ---  
 
-<h2 align="center">💡 Numbers don't lie, but they need the right mind to reveal the truth 🌙</h2>
+---  
+
+
+
+<h2 align="center">💡 Numbers don’t lie, but they need the right mind to reveal the truth 🌙</h2>
 
 <h1 align="center" style="color:#f39c12;">💼 Professional Data Analyst</h1>  
 
@@ -128,4 +141,4 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Md. Rabbi Ali-red?style=for-the-badge" alt="Made with ❤️ by Md. Rabbi Ali">
-</p>
+</p>  
