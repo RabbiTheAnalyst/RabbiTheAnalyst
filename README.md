@@ -87,7 +87,7 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
       <br /><sub><b>Telegram</b></sub>
     </td>
   </tr>
-</table>
+</table>  
 
 
 ## 📊 Profile Analytics
