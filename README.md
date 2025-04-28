@@ -12,7 +12,7 @@
 
 
 ---
-## 🌟 Professional Profile
+## 🌟 About Me
 
 <div align="center">
   <h3 style="color: #f39c12; border-bottom: 2px solid #f39c12; display: inline-block; padding-bottom: 5px;">
@@ -27,8 +27,6 @@
 
 <div style="background: rgba(243, 156, 18, 0.05); padding: 20px; border-radius: 10px; border-left: 4px solid #f39c12; margin: 15px 0;">
 
-🔍 **Data-Driven Decision Maker**  
-With a statistician's precision and business acumen, I transform raw data into actionable insights. My expertise lies in creating clear, impactful visualizations and reports that drive strategic business decisions across departments.
 
 </div>
 
