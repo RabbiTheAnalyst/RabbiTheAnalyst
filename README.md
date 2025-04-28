@@ -85,7 +85,9 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 <br> <!-- This adds vertical space between sections -->
 
 ## 📊 Profile Analytics
-<div align="left" style="margin-top: 20px;">
+
+  
+  <div align="left" style="margin-top: 20px;">
   [![Profile Views](https://komarev.com/ghpvc/?username=RabbiTheAnalyst&label=PROFILE+VISITS&style=for-the-badge&color=3498db&logo=github&logoColor=white)](https://github.com/RabbiTheAnalyst)
   <br> <!-- Space between badges -->
   [![GitHub Followers](https://img.shields.io/github/followers/RabbiTheAnalyst?label=FOLLOWERS&style=for-the-badge&color=2ecc71&logo=github)](https://github.com/RabbiTheAnalyst?tab=followers)
