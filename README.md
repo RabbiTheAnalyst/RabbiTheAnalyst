@@ -54,8 +54,15 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 
 
 
-## 🔥 Profile Viewers 
-<img src="https://komarev.com/ghpvc/?username=RabbiTheAnalyst&label=Profile%20Views&style=for-the-badge&color=2ECC71" alt="Profile Views" />  
+## 📊 Profile Analytics
+
+<div align="center" style="margin: 15px 0;">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=RabbiTheAnalyst&label=PROFILE+VISITS&style=for-the-badge&color=3498db&logo=github&logoColor=white)](https://github.com/RabbiTheAnalyst)
+[![GitHub Followers](https://img.shields.io/github/followers/RabbiTheAnalyst?label=FOLLOWERS&style=for-the-badge&color=2ecc71&logo=github)](https://github.com/RabbiTheAnalyst?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/RabbiTheAnalyst?label=REPO+STARS&style=for-the-badge&color=f39c12&logo=github)](https://github.com/RabbiTheAnalyst)
+
+</div>  
 
 
 ## 🛠 Tech Stack & Tools
