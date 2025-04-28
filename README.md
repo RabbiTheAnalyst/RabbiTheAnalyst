@@ -284,5 +284,7 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Md. Rabbi Ali-red?style=for-the-badge" alt="Made with ❤️ by Md. Rabbi Ali">
+  <a href="https://github.com/RabbiTheAnalyst">
+    <img src="https://img.shields.io/badge/𝐑𝐚𝐛𝐛𝐢%20𝐀𝐥𝐢-%23000000?style=for-the-badge&logo=github&logoColor=white" alt="Md. Rabbi Ali">
+  </a>
 </p>
