@@ -263,15 +263,16 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 --- 
 ## 🏆 Featured Projects
 
-| **[Statistical Handbook]** | **[Bike Share Analytics]** | **[Bank Loan Analysis]** |
-|---------------------------|---------------------------|--------------------------|
-| 📚 LaTeX book covering essential statistics for data analysts | 🚲 Comprehensive analysis of urban mobility patterns | 🏦 Loan risk assessment with 92% accuracy |
-| [![View PDF](https://img.shields.io/badge/View_PDF-2b579a?style=for-the-badge)](https://github.com/RabbiTheAnalyst/My-Written-Book-Statistics-For-Data-Analysts/blob/main/Stat-Book-for-Data-Analyst%20.pdf) | [![View Repo](https://img.shields.io/badge/View_Repo-2b579a?style=for-the-badge)](https://github.com/RabbiTheAnalyst/Bike-Share-Data-Analysis) | [![View Dashboard](https://img.shields.io/badge/View_Dashboard-2b579a?style=for-the-badge)](https://github.com/RabbiTheAnalyst/-Bank-Loan-Data-Analysis-) |
+<div align="center">
 
-| **[Titanic Survival Prediction]** | **[CodSoft Internship]** |
-|-----------------------------------|--------------------------|
-| ⚓ EDA and logistic regression model (82% accuracy) | 🎓 Collection of data science internship projects |
-| [![View on Kaggle](https://img.shields.io/badge/View_on_Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/code/mdrabbiali/titanic-dataset-eda-logistic-regression) | [![View Portfolio](https://img.shields.io/badge/View_Portfolio-2b579a?style=for-the-badge)](https://github.com/RabbiTheAnalyst/CODSOFT) |
+[![Statistical Handbook](https://img.shields.io/badge/📚_Statistical_Handbook-2b579a?style=for-the-badge)](https://github.com/RabbiTheAnalyst/My-Written-Book-Statistics-For-Data-Analysts/blob/main/Stat-Book-for-Data-Analyst%20.pdf)
+[![Bike Share](https://img.shields.io/badge/🚲_Bike_Share_Analytics-2b579a?style=for-the-badge)](https://github.com/RabbiTheAnalyst/Bike-Share-Data-Analysis)
+[![Bank Loans](https://img.shields.io/badge/🏦_Bank_Loan_Analysis-2b579a?style=for-the-badge)](https://github.com/RabbiTheAnalyst/-Bank-Loan-Data-Analysis-)
+
+[![Titanic](https://img.shields.io/badge/⚓_Titanic_Prediction-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/code/mdrabbiali/titanic-dataset-eda-logistic-regression)
+[![CodSoft](https://img.shields.io/badge/🎓_CodSoft_Internship-2b579a?style=for-the-badge)](https://github.com/RabbiTheAnalyst/CODSOFT)
+
+</div>
 
 ## 📩 How to Reach Me  
 <p align="center">
