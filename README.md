@@ -283,8 +283,8 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 ---  
 ---
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/RabbiTheAnalyst">
-    <img src="https://img.shields.io/badge/-Md.%20Rabbi%20Ali-000?style=flat-square&logo=git&logoColor=white&colorA=1a1a1a&colorB=7F00FF&labelColor=000000" alt="Md. Rabbi Ali">
+    <img src="https://img.shields.io/badge/➜%20echo%20%22Md.%20Rabbi%20Ali%22-%2341b883?style=for-the-badge&logo=windows-terminal&logoColor=white&labelColor=000" alt="Md. Rabbi Ali">
   </a>
 </p>
