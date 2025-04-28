@@ -202,29 +202,7 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
       
    </td>
   </tr>
-</table>
-
---- 
-## 🏆 GitHub Profile Analytics
-
-<div align="left">
-
-### 🏅 Achievement Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RabbiTheAnalyst&theme=onedark&row=2&column=4&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 📊 Activity Metrics
-| | |
-|:---:|:---:|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RabbiTheAnalyst&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RabbiTheAnalyst&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&hide=issues&card_width=400) |
-
-### 💻 Language Distribution
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RabbiTheAnalyst&layout=compact&theme=blueberry&hide_border=true&langs_count=8&hide=html,css,scss)
-
-### 📈 Contribution Analytics
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RabbiTheAnalyst&theme=github_dark)
-
-</div>
-
+</table>  
 
 --- 
 --- 
@@ -248,6 +226,30 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 
 ---  
 --- 
+
+--- 
+## 🏆 GitHub Profile Analytics
+
+<div align="left">
+
+### 🏅 Achievement Trophies
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RabbiTheAnalyst&theme=onedark&row=2&column=4&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📊 Activity Metrics
+| | |
+|:---:|:---:|
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RabbiTheAnalyst&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RabbiTheAnalyst&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&hide=issues&card_width=400) |
+
+### 💻 Language Distribution
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RabbiTheAnalyst&layout=compact&theme=blueberry&hide_border=true&langs_count=8&hide=html,css,scss)
+
+### 📈 Contribution Analytics
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RabbiTheAnalyst&theme=github_dark)
+
+</div>
+
+
+
 
 <h2 align="center">💡 Numbers don’t lie, but they need the right mind to reveal the truth 🌙</h2>
 
