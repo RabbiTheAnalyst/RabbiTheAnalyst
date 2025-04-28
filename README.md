@@ -43,53 +43,55 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 
 ---  
 ## 🌍 Connect with Me 
- 
 
-<table align="left">
-  <tr>
-    <td align="center" width="96">
-      <a href="mailto:rabbi.stat.iu@gmail.com">
-        <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" alt="Email" />
-      </a>
-      <br /><sub><b>Email</b></sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.linkedin.com/in/rabbi-the-analyst">
-        <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn" />
-      </a>
-      <br /><sub><b>LinkedIn</b></sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/RabbiTheAnalyst">
-        <img src="https://img.icons8.com/fluent/48/000000/github.png" width="40" alt="GitHub" />
-      </a>
-      <br /><sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://wa.me/8801740083864">
-        <img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="40" alt="WhatsApp" />
-      </a>
-      <br /><sub><b>WhatsApp</b></sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://t.me/Rabbi_Bhai">
-        <img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="40" alt="Telegram" />
-      </a>
-      <br /><sub><b>Telegram</b></sub>
-    </td>
-  </tr>
-</table>  
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="mailto:rabbi.stat.iu@gmail.com">
+          <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" alt="Email" />
+        </a>
+        <br /><sub><b>Email</b></sub>
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.linkedin.com/in/rabbi-the-analyst">
+          <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn" />
+        </a>
+        <br /><sub><b>LinkedIn</b></sub>
+      </td>
+      <td align="center" width="96">
+        <a href="https://github.com/RabbiTheAnalyst">
+          <img src="https://img.icons8.com/fluent/48/000000/github.png" width="40" alt="GitHub" />
+        </a>
+        <br /><sub><b>GitHub</b></sub>
+      </td>
+      <td align="center" width="96">
+        <a href="https://wa.me/8801740083864">
+          <img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="40" alt="WhatsApp" />
+        </a>
+        <br /><sub><b>WhatsApp</b></sub>
+      </td>
+      <td align="center" width="96">
+        <a href="https://t.me/Rabbi_Bhai">
+          <img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="40" alt="Telegram" />
+        </a>
+        <br /><sub><b>Telegram</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
+<br> <!-- This adds vertical space between sections -->
 
 ## 📊 Profile Analytics
 
-<div align="left" style="margin: 15px 0;">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=RabbiTheAnalyst&label=PROFILE+VISITS&style=for-the-badge&color=3498db&logo=github&logoColor=white)](https://github.com/RabbiTheAnalyst)
-[![GitHub Followers](https://img.shields.io/github/followers/RabbiTheAnalyst?label=FOLLOWERS&style=for-the-badge&color=2ecc71&logo=github)](https://github.com/RabbiTheAnalyst?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/RabbiTheAnalyst?label=REPO+STARS&style=for-the-badge&color=f39c12&logo=github)](https://github.com/RabbiTheAnalyst)
-
-</div>  
+<div align="left" style="margin-top: 20px;">
+  [![Profile Views](https://komarev.com/ghpvc/?username=RabbiTheAnalyst&label=PROFILE+VISITS&style=for-the-badge&color=3498db&logo=github&logoColor=white)](https://github.com/RabbiTheAnalyst)
+  <br> <!-- Space between badges -->
+  [![GitHub Followers](https://img.shields.io/github/followers/RabbiTheAnalyst?label=FOLLOWERS&style=for-the-badge&color=2ecc71&logo=github)](https://github.com/RabbiTheAnalyst?tab=followers)
+  <br> <!-- Space between badges -->
+  [![GitHub Stars](https://img.shields.io/github/stars/RabbiTheAnalyst?label=REPO+STARS&style=for-the-badge&color=f39c12&logo=github)](https://github.com/RabbiTheAnalyst)
+</div>
 
 
 ## 🛠️ Professional Tech Stack
