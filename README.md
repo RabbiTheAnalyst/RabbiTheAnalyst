@@ -265,15 +265,19 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 
 <div align="center">
 
-[![Statistical Handbook](https://img.shields.io/badge/📚_Statistical_Handbook-2b579a?style=for-the-badge)](https://github.com/RabbiTheAnalyst/My-Written-Book-Statistics-For-Data-Analysts/blob/main/Stat-Book-for-Data-Analyst%20.pdf)
-[![Bike Share](https://img.shields.io/badge/🚲_Bike_Share_Analytics-2b579a?style=for-the-badge)](https://github.com/RabbiTheAnalyst/Bike-Share-Data-Analysis)
-[![Bank Loans](https://img.shields.io/badge/🏦_Bank_Loan_Analysis-2b579a?style=for-the-badge)](https://github.com/RabbiTheAnalyst/-Bank-Loan-Data-Analysis-)
+|   |   |   |
+|---|---|---|
+| 📚 **Statistical Handbook** | 🚲 **Bike Share Analytics** | 🏦 **Bank Loan Analysis** |
+| LaTeX book covering essential statistics | Urban mobility pattern analysis | Loan risk assessment (92% accuracy) |
+| [![View](https://img.shields.io/badge/PDF-2b579a?style=flat-square&logo=adobe-acrobat-reader)](https://github.com/RabbiTheAnalyst/My-Written-Book-Statistics-For-Data-Analysts/blob/main/Stat-Book-for-Data-Analyst%20.pdf) | [![View](https://img.shields.io/badge/Repo-2b579a?style=flat-square&logo=github)](https://github.com/RabbiTheAnalyst/Bike-Share-Data-Analysis) | [![View](https://img.shields.io/badge/Dashboard-2b579a?style=flat-square&logo=powerbi)](https://github.com/RabbiTheAnalyst/-Bank-Loan-Data-Analysis-) |
 
-[![Titanic](https://img.shields.io/badge/⚓_Titanic_Prediction-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/code/mdrabbiali/titanic-dataset-eda-logistic-regression)
-[![CodSoft](https://img.shields.io/badge/🎓_CodSoft_Internship-2b579a?style=for-the-badge)](https://github.com/RabbiTheAnalyst/CODSOFT)
+|   |   |
+|---|---|
+| ⚓ **Titanic Survival** | 🎓 **CodSoft Internship** |
+| EDA & model (82% accuracy) | Data science projects collection |
+| [![View](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/code/mdrabbiali/titanic-dataset-eda-logistic-regression) | [![View](https://img.shields.io/badge/Portfolio-2b579a?style=flat-square&logo=github)](https://github.com/RabbiTheAnalyst/CODSOFT) |
 
 </div>
-
 ## 📩 How to Reach Me  
 <p align="center">
   <a href="mailto:rabbi.stat.iu@gmail.com" style="text-decoration: none;">
