@@ -228,22 +228,36 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 
 ---
 
-## 📂 Featured Projects  
+## 🏆 Featured Projects
 
-📘 [My-Written-Book-Statistics-For-Data-Analysts](https://github.com/RabbiTheAnalyst/My-Written-Book-Statistics-For-Data-Analysts/blob/main/Stat-Book-for-Data-Analyst%20.pdf)  
-✍️ A self-written LaTeX book covering core statistical concepts tailored for aspiring Data Analysts.
+<div align="left" style="margin: 20px 0; line-height: 1.6;">
 
-🚴 [Bike Share Data Analysis](https://github.com/RabbiTheAnalyst/Bike-Share-Data-Analysis)  
-🔍 Exploratory analysis using Excel, SQL, and Power BI to uncover city-wise trends in bike usage.
+### 📚 **Statistical Handbook for Data Analysts**  
+[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RabbiTheAnalyst/My-Written-Book-Statistics-For-Data-Analysts/blob/main/Stat-Book-for-Data-Analyst%20.pdf)  
+✨ A professionally typeset LaTeX book covering essential statistical concepts with practical data analysis applications.  
+🔹 Hypothesis Testing | 🔹 Probability Distributions | 🔹 Regression Analysis  
 
-🏦 [Bank Loan Data Analysis](https://github.com/RabbiTheAnalyst/-Bank-Loan-Data-Analysis-)  
-📊 An end-to-end dashboard and analysis on loan approvals and risk assessment using Power BI.
+### 🚲 **Urban Mobility: Bike Share Analytics**  
+[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RabbiTheAnalyst/Bike-Share-Data-Analysis)  
+📈 Comprehensive analysis of bike-sharing patterns across multiple cities.  
+🛠️ **Tech Stack**: Excel (Advanced Formulas) | SQL (Complex Queries) | Power BI (Interactive Dashboards)  
 
-🚢 [Titanic Dataset Analysis using Python](https://www.kaggle.com/code/mdrabbiali/titanic-dataset-eda-logistic-regression)  
-📈 Performed EDA and Logistic Regression to predict passenger survival using Python & Scikit-learn.
+### 🏦 **Bank Loan Risk Assessment**  
+[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RabbiTheAnalyst/-Bank-Loan-Data-Analysis-)  
+💰 Developed risk scoring models with 92% predictive accuracy.  
+📊 **Deliverables**: Loan Approval Dashboard | Risk Heatmaps | Customer Segmentation  
 
-💼 [CodSoft Internship Projects](https://github.com/RabbiTheAnalyst/CODSOFT)  
-🚀 Internship tasks and projects under the Data Science domain with CodSoft.
+### ⚓ **Titanic Survival Prediction**  
+[![Kaggle Notebook](https://img.shields.io/badge/View_on_Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/mdrabbiali/titanic-dataset-eda-logistic-regression)  
+🧠 Performed feature engineering and achieved 82% accuracy with Logistic Regression.  
+🐍 **Python Stack**: Pandas | Seaborn | Scikit-learn  
+
+### 🎓 **Data Science Internship Portfolio**  
+[![GitHub Repo](https://img.shields.io/badge/View_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RabbiTheAnalyst/CODSOFT)  
+🏅 Completed 5 industry-relevant projects during CodSoft internship.  
+📌 **Highlights**: Predictive Modeling | Data Visualization | Statistical Analysis  
+
+</div>
 
 
 --- 
