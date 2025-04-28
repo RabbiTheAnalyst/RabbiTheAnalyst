@@ -43,7 +43,7 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 
 ## 🌍 Connect with Me 
 
-<div align="center" style="margin: 20px 0;">
+<div align="left" style="margin: 20px 0;">
 
 [![LinkedIn](https://img.shields.io/badge/-CONNECT_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/rabbitheanalyst)](https://linkedin.com/in/rabbitheanalyst)
 [![Kaggle](https://img.shields.io/badge/-EXPLORE_on_Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&link=https://www.kaggle.com/mdrabbiali)](https://www.kaggle.com/mdrabbiali)
