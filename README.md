@@ -134,8 +134,7 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
      <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
         <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
       </a> 
-     
-   <a href="https://pandas.pydata.org/" target="_blank">
+     <a href="https://pandas.pydata.org/" target="_blank">
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
       </a> 
       <a href="https://numpy.org/" target="_blank">
