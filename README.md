@@ -283,8 +283,3 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Md.%20Rabbi%20Ali-6C63FF?style=for-the-badge&logo=github&logoColor=white&labelColor=121212" alt="Made with ❤️ by Md. Rabbi Ali">
 </p>
-
-
-bondhu aita amar github er profile readme ..
-tumi aita valo kore dekhe janaw amar profile ta kemon ? 
-r ki ki add kora jai jeita korle valo hoi ?
