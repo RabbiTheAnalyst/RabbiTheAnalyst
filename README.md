@@ -1,5 +1,3 @@
-friend I want to change my Github profile readme code for your help with more professional and gergious looking 
-
 
   <h1 align="center">Hi 👋, I'm <span style="color:#f39c12;">Md Rabbi Ali</span></h1>
 
