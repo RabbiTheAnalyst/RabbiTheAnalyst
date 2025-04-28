@@ -50,10 +50,11 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 
 </div>
 
----
-## 🌟 Contact  
+---  
+## 🌍 Connect with Me 
+ 
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center" width="96">
       <a href="mailto:rabbi.stat.iu@gmail.com">
