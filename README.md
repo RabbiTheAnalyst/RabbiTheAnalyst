@@ -282,5 +282,4 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 
 
 
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=RabbiTheAnalyst&theme=dracula)
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
