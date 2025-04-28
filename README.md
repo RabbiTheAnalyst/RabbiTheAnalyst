@@ -282,3 +282,7 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/RabbiTheAnalyst)  
+
+[![Twitter Follow](https://img.shields.io/badge/Twitter-Follow_@RabbiTheAnalyst-blue?style=flat-square&logo=twitter)](https://twitter.com/RabbiTheAnalyst)  
+
+[![Twitter](https://img.shields.io/twitter/follow/RabbiTheAnalyst?label=Follow&style=social&logo=twitter)](https://twitter.com/RabbiTheAnalyst)
