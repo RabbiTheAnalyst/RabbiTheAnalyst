@@ -233,7 +233,7 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 | **Data Analysis with Python** | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://courses.cognitiveclass.ai/certificates/ec0db25f1c9f4e7585a292382ab09efd) |
 | **Business Analytics with Excel** | [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://certificates.simplicdn.net/share/7879958_81735291739024051747.pdf) |
 | **AI for Beginners** | [![AI](https://img.shields.io/badge/AI-FF6D00?style=for-the-badge&logo=ai&logoColor=white)](https://www.life-global.org/certificate/b93b6fba-a924-4657-9dda-7e10b2962948) |
-| **Master Microsoft Power BI** | [![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://alison.com/certification/check/72d64833e7) |
+| **Master Microsoft Power BI** | [![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/RabbiTheAnalyst/Certificates/blob/main/Master%20Microsoft%20Power%20BI%20-%20Certificate.pdf) |
 
 ### 🏅 Achievement Trophies
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RabbiTheAnalyst&theme=onedark&row=2&column=4&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
