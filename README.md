@@ -235,22 +235,44 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 | **AI for Beginners** | [![AI](https://img.shields.io/badge/AI-FF6D00?style=for-the-badge&logo=ai&logoColor=white)](https://www.life-global.org/certificate/b93b6fba-a924-4657-9dda-7e10b2962948) |
 | **Master Microsoft Power BI** | [![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/RabbiTheAnalyst/Certificates/blob/main/Master%20Microsoft%20Power%20BI%20-%20Certificate.pdf) |
 
-### 🏅 Achievement Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RabbiTheAnalyst&theme=onedark&row=2&column=4&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
 
-### 📊 Activity Metrics
-| | |
-|:---:|:---:|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RabbiTheAnalyst&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RabbiTheAnalyst&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&hide=issues&card_width=400) |
+## 🏆 Achievement Trophies
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RabbiTheAnalyst&theme=matrix&no-bg=true&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 💻 Language Distribution
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RabbiTheAnalyst&layout=compact&theme=blueberry&hide_border=true&langs_count=8&hide=html,css,scss)
+## 📊 Activity Dashboard
 
-### 📈 Contribution Analytics
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RabbiTheAnalyst&theme=github_dark)
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 25px 0;">
+
+<!-- Streak Stats -->
+<div style="flex: 1; min-width: 300px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RabbiTheAnalyst&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&dates=8B949E" alt="GitHub Streak" />
+</div>
+
+<!-- Profile Stats -->
+<div style="flex: 1; min-width: 300px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=RabbiTheAnalyst&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&hide_title=false&include_all_commits=true&custom_title=Development+Activity" alt="GitHub Stats" />
+</div>
 
 </div>
 
+## 💻 Technology Spectrum
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 25px 0;">
+
+<!-- Language Distribution -->
+<div style="flex: 1; min-width: 300px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabbiTheAnalyst&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8&exclude_repo=html-templates" alt="Top Languages" />
+</div>
+
+<!-- Contribution Graph -->
+<div style="flex: 1; min-width: 300px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RabbiTheAnalyst&theme=github_dark" alt="Contribution Graph" />
+</div>
+
+</div>
+
+</div>
 
 
 
