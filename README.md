@@ -226,40 +226,7 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 </div>
 
 
----
-
-## 🏆 Featured Projects
-
-<div align="left" style="margin: 20px 0; line-height: 1.6;">
-
-### 📚 **Statistical Handbook for Data Analysts**  
-[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RabbiTheAnalyst/My-Written-Book-Statistics-For-Data-Analysts/blob/main/Stat-Book-for-Data-Analyst%20.pdf)  
-✨ A professionally typeset LaTeX book covering essential statistical concepts with practical data analysis applications.  
-🔹 Hypothesis Testing | 🔹 Probability Distributions | 🔹 Regression Analysis  
-
-### 🚲 **Urban Mobility: Bike Share Analytics**  
-[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RabbiTheAnalyst/Bike-Share-Data-Analysis)  
-📈 Comprehensive analysis of bike-sharing patterns across multiple cities.  
-🛠️ **Tech Stack**: Excel (Advanced Formulas) | SQL (Complex Queries) | Power BI (Interactive Dashboards)  
-
-### 🏦 **Bank Loan Risk Assessment**  
-[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RabbiTheAnalyst/-Bank-Loan-Data-Analysis-)  
-💰 Developed risk scoring models with 92% predictive accuracy.  
-📊 **Deliverables**: Loan Approval Dashboard | Risk Heatmaps | Customer Segmentation  
-
-### ⚓ **Titanic Survival Prediction**  
-[![Kaggle Notebook](https://img.shields.io/badge/View_on_Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/mdrabbiali/titanic-dataset-eda-logistic-regression)  
-🧠 Performed feature engineering and achieved 82% accuracy with Logistic Regression.  
-🐍 **Python Stack**: Pandas | Seaborn | Scikit-learn  
-
-### 🎓 **Data Science Internship Portfolio**  
-[![GitHub Repo](https://img.shields.io/badge/View_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RabbiTheAnalyst/CODSOFT)  
-🏅 Completed 5 industry-relevant projects during CodSoft internship.  
-📌 **Highlights**: Predictive Modeling | Data Visualization | Statistical Analysis  
-
-</div>
-
-
+--- 
 --- 
 ## 🏆 Featured Projects
 
