@@ -1,15 +1,17 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
-  Hi, I'm <span style="color:#f39c12; text-shadow: 0px 2px 4px rgba(243,156,18,0.3);">Md Rabbi Ali</span>
+  Hi, I'm <span style="color:#6C63FF; text-shadow: 0px 2px 4px rgba(108,99,255,0.3);">Md. Rabbi Ali</span>
 </h1>
 
+<h3 align="center" style="color:#6C63FF;">
+  <img src="https://img.icons8.com/ios-filled/20/6C63FF/graduation-cap.png"/> B.Sc in Statistics | Islamic University, Kushtia
+</h3>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=F39C12&center=true&vCenter=true&width=680&height=50&lines=Educator+by+Day+%7C+Data+Scientist+by+Night+%F0%9F%8C%99;Data-Driven+Decision+Maker+%F0%9F%93%88;Continuous+Learner+%26+Evolving+Professional+%F0%9F%93%96;Transforming+Raw+Data+Into+Strategic+Insights+%F0%9F%94%A5;Python+%7C+Power+BI+%7C+SQL+%7C+Advanced+Excel+%F0%9F%92%BB" alt="Professional Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=6C63FF&center=true&vCenter=true&width=680&height=50&lines=Data+Scientist+%7C+Power+BI+Expert+%F0%9F%93%88;Python+%7C+SQL+%7C+Advanced+Excel+%F0%9F%92%BB;Turning+Raw+Data+Into+Strategic+Insights+%F0%9F%94%A5" alt="Typing Animation" />
 </div>
 
-<h3 align="center" style="color:#D5D8DC;">
-  <img src="https://img.icons8.com/ios-filled/20/3498db/graduation-cap.png"/> B.Sc in Statistics | Islamic University, Kushtia
-</h3>
+---
 
 
 
