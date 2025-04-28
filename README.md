@@ -235,7 +235,7 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 | **AI for Beginners** | [![AI](https://img.shields.io/badge/AI-FF6D00?style=for-the-badge&logo=ai&logoColor=white)](https://www.life-global.org/certificate/b93b6fba-a924-4657-9dda-7e10b2962948) |
 | **Master Microsoft Power BI** | [![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/RabbiTheAnalyst/Certificates/blob/main/Master%20Microsoft%20Power%20BI%20-%20Certificate.pdf) |
 
-<div align="center">
+<div align="left">
 
 ## 🏆 Achievement Trophies
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RabbiTheAnalyst&theme=matrix&no-bg=true&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
