@@ -36,10 +36,8 @@
 🔍 **Mission-Driven Analyst**  
 With a statistician's precision and storyteller's flair, I bridge the gap between raw data and strategic decisions. My expertise lies in distilling complex datasets into **executive-ready insights** that drive measurable business outcomes across industries.
 
-</div>
+</div>  
 
-
----
 ---  
 
 ## 🌍 Connect with Me 
