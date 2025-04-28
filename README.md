@@ -282,4 +282,10 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)  
+![Contributions Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RabbiTheAnalyst&theme=react)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RabbiTheAnalyst&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RabbiTheAnalyst&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
