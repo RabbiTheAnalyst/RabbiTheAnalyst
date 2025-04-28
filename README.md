@@ -162,16 +162,17 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
       <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
       </a> 
+     <a href="https://github.com/" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+      </a>
       <a href="https://www.latex-project.org/" target="_blank">
         <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
       </a> 
       <a href="https://www.kaggle.com/" target="_blank">
         <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle">
       </a> 
-      <a href="https://github.com/" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-      </a>
-    </td>
+      
+   </td>
   </tr>
 </table>
 
