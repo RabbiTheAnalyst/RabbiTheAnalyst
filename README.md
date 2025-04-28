@@ -161,10 +161,7 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
       </a> 
       <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
-      </a> 
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-      </a> 
+      </a> 
       <a href="https://www.latex-project.org/" target="_blank">
         <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
       </a> 
