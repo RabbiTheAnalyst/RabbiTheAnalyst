@@ -12,18 +12,25 @@
 
 
 ---
-## 🌟 About Me
+## 🌟 Professional Profile
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=F39C12&center=true&vCenter=true&width=600&lines=Data+Alchemist+%F0%9F%92%AC+%7C+Insight+Architect+%F0%9F%93%9A;Transforming+Raws+Data+Into+Strategic+Assets+%F0%9F%94%A5" alt="Animated Header" />
+  <h3 style="color: #f39c12; border-bottom: 2px solid #f39c12; display: inline-block; padding-bottom: 5px;">
+    Data Analyst | Business Intelligence Specialist
+  </h3>
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data_Scientist-2F4F4F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjEgMTVhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWN2EyIDIgMCAwIDEgMi0yaDE0YTIgMiAwIDAgMSAyIDJ6Ii8+PHBhdGggZD0iTTcgMTBoMTAiLz48cGF0aCBkPSJNNyAxNGg0Ii8+PC9zdmc+" alt="Data Scientist" />
-  <img src="https://img.shields.io/badge/Business_Intelligence-FF6B00?style=for-the-badge&logo=powerbi&logoColor=white" alt="BI Expert" />
+  <img src="https://img.shields.io/badge/Data_Analyst-2F4F4F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjEgMTVhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWN2EyIDIgMCAwIDEgMi0yaDE0YTIgMiAwIDAgMSAyIDJ6Ii8+PHBhdGggZD0iTTcgMTBoMTAiLz48cGF0aCBkPSJNNyAxNGg0Ii8+PC9zdmc+" alt="Data Analyst" />
+  <img src="https://img.shields.io/badge/Power_BI_Expert-FF6B00?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI Expert" />
 </p>
 
-<div style="background: linear-gradient(90deg, rgba(243,156,18,0.1) 0%, rgba(231,76,60,0.1) 100%); padding: 20px; border-radius: 10px; border-left: 4px solid #f39c12;">
+<div style="background: rgba(243, 156, 18, 0.05); padding: 20px; border-radius: 10px; border-left: 4px solid #f39c12; margin: 15px 0;">
+
+🔍 **Data-Driven Decision Maker**  
+With a statistician's precision and business acumen, I transform raw data into actionable insights. My expertise lies in creating clear, impactful visualizations and reports that drive strategic business decisions across departments.
+
+</div>
 
 🔍 **Mission-Driven Analyst**  
 With a statistician's precision and storyteller's flair, I bridge the gap between raw data and strategic decisions. My expertise lies in distilling complex datasets into **executive-ready insights** that drive measurable business outcomes across industries.
