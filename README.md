@@ -1,17 +1,11 @@
 
  <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Hello! I'm <span style="color:#f39c12; font-weight:600; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">Md Rabbi Ali</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
+  Hi, I'm <span style="color:#f39c12; text-shadow: 0px 2px 4px rgba(243,156,18,0.3);">Md Rabbi Ali</span>
 </h1>
 
-<h3 align="center" style="margin-top: 10px;">
-  <span style="background: linear-gradient(90deg, #f39c12, #e74c3c); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 500;">
-    Data Analyst | Educator | Business Intelligence Specialist
-  </span>
-</h3>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F39C12&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Decisions+%F0%9F%93%88;Analytics+%7C+Visualization+%7C+Business+Strategy;Daytime+Educator+%7C+Nighttime+Data+Alchemist+%F0%9F%94%AC;Python+%7C+Power+BI+%7C+SQL+%7C+Advanced+Excel" alt="Typing Animation" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=F39C12&center=true&vCenter=true&width=680&height=50&lines=Educator+by+Day+%7C+Data+Scientist+by+Night+%F0%9F%8C%99;Data-Driven+Decision+Maker+%F0%9F%93%88;Continuous+Learner+%26+Evolving+Professional+%F0%9F%93%96;Transforming+Raw+Data+Into+Strategic+Insights+%F0%9F%94%A5;Python+%7C+Power+BI+%7C+SQL+%7C+Advanced+Excel+%F0%9F%92%BB" alt="Professional Typing Animation" />
 </div>
 
 <h3 align="center" style="color:#D5D8DC;">
