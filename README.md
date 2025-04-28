@@ -245,23 +245,6 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 | [![View](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/code/mdrabbiali/titanic-dataset-eda-logistic-regression) | [![View](https://img.shields.io/badge/Portfolio-2b579a?style=flat-square&logo=github)](https://github.com/RabbiTheAnalyst/CODSOFT) |
 
 </div>
-## 📩 How to Reach Me  
-<p align="center">
-  <a href="mailto:rabbi.stat.iu@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://t.me/Rabbi_Bhai" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Telegram-1E90FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://wa.me/+8801740083864" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/WhatsApp-1E90FF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>  
-<p align="center">
-  💡 Let’s collaborate and explore the world of data together! 🚀
-</p>
-
----  
 
 ---  
 
