@@ -73,7 +73,7 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 
 <table>
   <tr>
-    <td align="center" width="120">
+    <td align="left" width="120">
       <img src="https://img.icons8.com/color/48/000000/python.png" width="40"/>
       <br><b>Python</b>
     </td>
