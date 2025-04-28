@@ -228,31 +228,46 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 --- 
 ## 📜 Certifications
 
-<div align="left" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin: 20px 0;">
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin: 20px 0;">
 
+<!-- Python Certification -->
 <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #2b579a;">
-  
-### <img src="https://img.icons8.com/color/24/000000/python.png" width="20"/> Data Analysis with Python  
-[![View Certificate](https://img.shields.io/badge/View_Certificate-2b579a?style=for-the-badge&logo=adobe-acrobat-reader)](https://courses.cognitiveclass.ai/certificates/ec0db25f1c9f4e7585a292382ab09efd)
-
+  <h3>
+    <img src="https://img.icons8.com/color/24/000000/python.png" width="20" alt="Python"/> 
+    Data Analysis with Python
+  </h3>
+  <p>Fundamental data analysis techniques using Python</p>
+  [![View Certificate](https://img.shields.io/badge/View_Certificate-2b579a?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://courses.cognitiveclass.ai/certificates/ec0db25f1c9f4e7585a292382ab09efd)
 </div>
 
-<div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #2b579a;">
-  
-| Certification | Badge |
-|--------------|-------|
-| **Business Analytics with Excel** | [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://certificates.simplicdn.net/share/7879958_81735291739024051747.pdf) |
-  
-### <img src="https://img.icons8.com/color/24/000000/artificial-intelligence.png" width="20"/> AI for Beginners  
-[![View Certificate](https://img.shields.io/badge/View_Certificate-2b579a?style=for-the-badge&logo=adobe-acrobat-reader)](https://www.life-global.org/certificate/b93b6fba-a924-4657-9dda-7e10b2962948)
-
+<!-- Excel Certification -->
+<div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #217346;">
+  <h3>
+    <img src="https://img.icons8.com/color/24/000000/ms-excel.png" width="20" alt="Excel"/>
+    Business Analytics with Excel
+  </h3>
+  <p>Advanced analytics and visualization in Excel</p>
+  [![View Certificate](https://img.shields.io/badge/View_Certificate-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://certificates.simplicdn.net/share/7879958_81735291739024051747.pdf)
 </div>
 
-<div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #2b579a;">
-  
-### <img src="https://img.icons8.com/color/24/000000/power-bi.png" width="20"/> Master Microsoft Power BI  
-[![View Certificate](https://img.shields.io/badge/View_Certificate-2b579a?style=for-the-badge&logo=adobe-acrobat-reader)](https://alison.com/certification/check/72d64833e7)
+<!-- AI Certification -->
+<div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #FF6D00;">
+  <h3>
+    <img src="https://img.icons8.com/color/24/000000/artificial-intelligence.png" width="20" alt="AI"/>
+    AI for Beginners
+  </h3>
+  <p>Introduction to artificial intelligence concepts</p>
+  [![View Certificate](https://img.shields.io/badge/View_Certificate-FF6D00?style=for-the-badge&logo=ai&logoColor=white)](https://www.life-global.org/certificate/b93b6fba-a924-4657-9dda-7e10b2962948)
+</div>
 
+<!-- Power BI Certification -->
+<div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #F2C811;">
+  <h3>
+    <img src="https://img.icons8.com/color/24/000000/power-bi.png" width="20" alt="Power BI"/>
+    Master Microsoft Power BI
+  </h3>
+  <p>Data visualization and business intelligence</p>
+  [![View Certificate](https://img.shields.io/badge/View_Certificate-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://alison.com/certification/check/72d64833e7)
 </div>
 
 </div>
