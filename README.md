@@ -131,18 +131,18 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
   <tr>
     <td><b>Data Handling</b></td>
     <td>
-      <a href="https://pandas.pydata.org/" target="_blank">
+     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
+      </a> 
+     
+   <a href="https://pandas.pydata.org/" target="_blank">
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
       </a> 
       <a href="https://numpy.org/" target="_blank">
         <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
       </a> 
-      <a href="https://scipy.org/" target="_blank">
-        <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy">
-      </a> 
-      <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
-      </a>
+       
+      
     </td>
   </tr>
   <tr>
