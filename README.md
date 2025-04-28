@@ -11,7 +11,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=6C63FF&center=true&vCenter=true&width=680&height=50&lines=Data+Scientist+%7C+Power+BI+Expert+%F0%9F%93%88;Python+%7C+SQL+%7C+Advanced+Excel+%F0%9F%92%BB;Turning+Raw+Data+Into+Strategic+Insights+%F0%9F%94%A5" alt="Typing Animation" />
 </div>
 
---- 
 
 ## 🌟 About Me
 
