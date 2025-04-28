@@ -282,5 +282,5 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 
 
 
-![Project Name](https://img.shields.io/badge/Project%20Name-Status%20Here-orange)
-[Link to Repository or Demo](GitHubLink)
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=RabbiTheAnalyst&theme=dracula)
+
