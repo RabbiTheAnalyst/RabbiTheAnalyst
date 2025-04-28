@@ -42,10 +42,15 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 ---
 
 ## 🌐 Connect with Me  
-<p align="center">
-  <a href="https://linkedin.com/in/rabbitheanalyst"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.kaggle.com/mdrabbiali"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-</p>
+## 🌍 Professional Network
+
+<div align="center" style="margin: 20px 0;">
+
+[![LinkedIn](https://img.shields.io/badge/-CONNECT_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/rabbitheanalyst)](https://linkedin.com/in/rabbitheanalyst)
+[![Kaggle](https://img.shields.io/badge/-EXPLORE_on_Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&link=https://www.kaggle.com/mdrabbiali)](https://www.kaggle.com/mdrabbiali)
+[![Email](https://img.shields.io/badge/-CONTACT_via_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rabbi.stat.iu@gmail.com)](mailto:rabbi.stat.iu@gmail.com)
+
+</div>
 
 ---
 
