@@ -104,34 +104,67 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
     <th>Technologies</th>
   </tr>
   <tr>
-    <td><b>Data Analysis</b></td>
+    <td><b>Language</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white">
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      </a>
     </td>
   </tr>
   <tr>
-    <td><b>Visualization</b></td>
+    <td><b>Data Visualization</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Matplotlib-003366?style=flat-square&logo=matplotlib&logoColor=white">
-      <img src="https://img.shields.io/badge/Seaborn-1F77B4?style=flat-square&logo=seaborn&logoColor=white">
-      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white">
+      <a href="https://matplotlib.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib">
+      </a>&nbsp;
+      <a href="https://seaborn.pydata.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Seaborn-1F77B4?style=flat-square&logo=seaborn&logoColor=white" alt="Seaborn">
+      </a>&nbsp;
+      <a href="https://plotly.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
+      </a>
     </td>
   </tr>
   <tr>
-    <td><b>Databases</b></td>
+    <td><b>Data Handling</b></td>
     <td>
-      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+      <a href="https://pandas.pydata.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+      </a>&nbsp;
+      <a href="https://numpy.org/" target="_blank">
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+      </a>&nbsp;
+      <a href="https://scipy.org/" target="_blank">
+        <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy">
+      </a>
     </td>
   </tr>
   <tr>
-    <td><b>Development</b></td>
+    <td><b>Database</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
-      <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+      </a>&nbsp;
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools and Platforms</b></td>
+    <td>
+      <a href="https://jupyter.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+      </a>&nbsp;
+      <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+      </a>&nbsp;
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+      </a>&nbsp;
+      <a href="https://www.latex-project.org/" target="_blank">
+        <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
+      </a>
     </td>
   </tr>
 </table>
