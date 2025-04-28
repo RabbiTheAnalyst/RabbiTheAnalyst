@@ -89,6 +89,10 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
       <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/>
       <br><b>Excel</b>
     </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/000000/latex.png" width="40"/>
+      <br><b>LaTeX</b>
+    </td>
   </tr>
 </table>
 
