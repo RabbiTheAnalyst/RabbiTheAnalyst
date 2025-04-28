@@ -228,7 +228,7 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 --- 
 ## 📜 Certifications
 
-| Certification | Badge |
+| Certification | View my Certificate |
 |--------------|-------|
 | **Data Analysis with Python** | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://courses.cognitiveclass.ai/certificates/ec0db25f1c9f4e7585a292382ab09efd) |
 | **Business Analytics with Excel** | [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://certificates.simplicdn.net/share/7879958_81735291739024051747.pdf) |
