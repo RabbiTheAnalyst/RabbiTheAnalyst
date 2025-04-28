@@ -51,7 +51,36 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 </div>
 
 ---
+## 🌟 Contact  
 
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="mailto:rabbi.stat.iu@gmail.com">
+        <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" alt="Email" />
+      </a>
+      <br /><sub><b>Email</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.linkedin.com/in/rabbi-the-analyst">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn" />
+      </a>
+      <br /><sub><b>LinkedIn</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/RabbiTheAnalyst">
+        <img src="https://img.icons8.com/fluent/48/000000/github.png" width="40" alt="GitHub" />
+      </a>
+      <br /><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://wa.me/8801740083864">
+        <img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="40" alt="WhatsApp" />
+      </a>
+      <br /><sub><b>WhatsApp</b></sub>
+    </td>
+  </tr>
+</table>
 
 
 ## 📊 Profile Analytics
