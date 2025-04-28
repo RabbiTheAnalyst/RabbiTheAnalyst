@@ -179,7 +179,7 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 --- 
 ## 🏆 GitHub Profile Analytics
 
-<div align="center">
+<div align="left">
 
 ### 🏅 Achievement Trophies
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RabbiTheAnalyst&theme=onedark&row=2&column=4&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
