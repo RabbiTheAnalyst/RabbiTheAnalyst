@@ -65,30 +65,80 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 </div>  
 
 
-## 🛠 Tech Stack & Tools
+## 🛠️ Professional Tech Stack
 
-**💻 Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
 
-**📊 Data Visualization:**  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=matplotlib&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge&logo=seaborn&logoColor=white)
+### 🔧 Core Competencies
 
-**📂 Data Handling:**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/000000/python.png" width="40"/>
+      <br><b>Python</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/000000/sql.png" width="40"/>
+      <br><b>SQL</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40"/>
+      <br><b>Power BI</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/000000/microsoft-excel.png" width="40"/>
+      <br><b>Excel</b>
+    </td>
+  </tr>
+</table>
 
-**🗄️ Databases:**  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+### 📚 Technology Matrix
 
-**⚙️ Tools & Platforms:**  
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
- 
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><b>Data Analysis</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Visualization</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Matplotlib-003366?style=flat-square&logo=matplotlib&logoColor=white">
+      <img src="https://img.shields.io/badge/Seaborn-1F77B4?style=flat-square&logo=seaborn&logoColor=white">
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Development</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+    </td>
+  </tr>
+</table>
+
+### 🏆 Skill Proficiency
+
+```text
+Python        ⭐⭐⭐⭐⭐  Power BI     ⭐⭐⭐⭐⭐
+SQL           ⭐⭐⭐⭐⭐  Excel        ⭐⭐⭐⭐⭐
+Pandas        ⭐⭐⭐⭐☆  NumPy        ⭐⭐⭐⭐☆
+Matplotlib    ⭐⭐⭐☆☆  Seaborn      ⭐⭐⭐☆☆
 
 
 --- 
