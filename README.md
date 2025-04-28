@@ -12,16 +12,85 @@
 
 
 ---
-## 🚀 About Me  
-🎯 I am a passionate **Data Analyst** and **Data Scientist** with a keen eye for uncovering actionable insights from data. My journey revolves around transforming complex datasets into simple, understandable stories that drive decisions. From **business analytics** to **predictive modeling**, I focus on making data-driven solutions that deliver measurable impact!
+## 🌟 Professional Profile
 
-🔥 Specialized in:
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=F39C12&center=true&vCenter=true&width=600&lines=Data+Alchemist+%F0%9F%92%AC+%7C+Insight+Architect+%F0%9F%93%9A;Transforming+Raws+Data+Into+Strategic+Assets+%F0%9F%94%A5" alt="Animated Header" />
+</div>
 
-📊 **Data Visualization**: Creating interactive, insightful dashboards with **Power BI** and **Excel**  
-📝 **Data Analysis**: Handling and analyzing large datasets with **SQL** and **Python**  
-💻 **Automation**: Automating repetitive tasks and workflows with **Python** and **SQL**  
-⚡ **Predictive Analytics**: Building models for **business intelligence**, **sports analytics**, and more  
-🧠 **Machine Learning**: Exploring and implementing **AI**-driven solutions for real-world problems
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Scientist-2F4F4F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjEgMTVhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWN2EyIDIgMCAwIDEgMi0yaDE0YTIgMiAwIDAgMSAyIDJ6Ii8+PHBhdGggZD0iTTcgMTBoMTAiLz48cGF0aCBkPSJNNyAxNGg0Ii8+PC9zdmc+" alt="Data Scientist" />
+  <img src="https://img.shields.io/badge/Business_Intelligence-FF6B00?style=for-the-badge&logo=powerbi&logoColor=white" alt="BI Expert" />
+</p>
+
+<div style="background: linear-gradient(90deg, rgba(243,156,18,0.1) 0%, rgba(231,76,60,0.1) 100%); padding: 20px; border-radius: 10px; border-left: 4px solid #f39c12;">
+
+🔍 **Mission-Driven Analyst**  
+With a statistician's precision and storyteller's flair, I bridge the gap between raw data and strategic decisions. My expertise lies in distilling complex datasets into **executive-ready insights** that drive measurable business outcomes across industries.
+
+</div>
+
+## 🛠️ Core Competencies
+
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/color/48/000000/ms-excel.png" width="36"/>
+      <br>
+      <b>Advanced Analytics</b>
+      <p style="font-size: 0.8em; color: #7f8c8d;">Predictive Modeling<br>Statistical Analysis</p>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="36"/>
+      <br>
+      <b>Data Visualization</b>
+      <p style="font-size: 0.8em; color: #7f8c8d;">Interactive Dashboards<br>KPI Frameworks</p>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/color/48/000000/python.png" width="36"/>
+      <br>
+      <b>Data Engineering</b>
+      <p style="font-size: 0.8em; color: #7f8c8d;">ETL Pipelines<br>Automation</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/color/48/000000/machine-learning.png" width="36"/>
+      <br>
+      <b>Machine Learning</b>
+      <p style="font-size: 0.8em; color: #7f8c8d;">Supervised Learning<br>AI Solutions</p>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/color/48/000000/database.png" width="36"/>
+      <br>
+      <b>Data Warehousing</b>
+      <p style="font-size: 0.8em; color: #7f8c8d;">SQL Optimization<br>Database Design</p>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/color/48/000000/business.png" width="36"/>
+      <br>
+      <b>Business Strategy</b>
+      <p style="font-size: 0.8em; color: #7f8c8d;">ROI Analysis<br>Decision Science</p>
+    </td>
+  </tr>
+</table>
+
+## 💡 Value Proposition
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <div style="background: rgba(46, 204, 113, 0.1); padding: 12px; border-radius: 8px; width: 30%; min-width: 250px; border-left: 3px solid #2ecc71;">
+    <b>📈 Actionable Insights</b>
+    <p style="font-size: 0.9em;">Translating complex analyses into clear business recommendations</p>
+  </div>
+  <div style="background: rgba(52, 152, 219, 0.1); padding: 12px; border-radius: 8px; width: 30%; min-width: 250px; border-left: 3px solid #3498db;">
+    <b>⚡ Efficiency Focus</b>
+    <p style="font-size: 0.9em;">Automating repetitive processes to amplify productivity</p>
+  </div>
+  <div style="background: rgba(155, 89, 182, 0.1); padding: 12px; border-radius: 8px; width: 30%; min-width: 250px; border-left: 3px solid #9b59b6;">
+    <b>🔮 Future-Proofing</b>
+    <p style="font-size: 0.9em;">Building scalable solutions that evolve with business needs</p>
+  </div>
+</div>
 
 ---
 
