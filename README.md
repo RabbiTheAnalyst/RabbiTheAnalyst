@@ -81,8 +81,8 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
   </table>
 </div>
 
-<br> <!-- This adds vertical space between sections -->
 
+<br> <!-- This adds vertical space between sections -->
 ## 📊 Profile Analytics
 
 <div align="left" style="margin-top: 20px;">
