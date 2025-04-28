@@ -132,14 +132,6 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
   </tr>
 </table>
 
-### 🏆 Skill Proficiency
-
-```text
-Python        ⭐⭐⭐⭐⭐  Power BI     ⭐⭐⭐⭐⭐
-SQL           ⭐⭐⭐⭐⭐  Excel        ⭐⭐⭐⭐⭐
-Pandas        ⭐⭐⭐⭐☆  NumPy        ⭐⭐⭐⭐☆
-Matplotlib    ⭐⭐⭐☆☆  Seaborn      ⭐⭐⭐☆☆
-
 
 --- 
 ## 🏆 GitHub Achievements & Contributions
