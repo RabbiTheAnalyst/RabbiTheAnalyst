@@ -230,7 +230,7 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 --- 
 ## 🏆 Featured Projects
 
-<div align="center">
+<div align="left">
 
 |   |   |   |
 |---|---|---|
