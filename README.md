@@ -130,8 +130,9 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
   </tr>
   <tr>
     <td><b>Data Handling</b></td>
-    <td>
-     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <td>  
+     
+   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
         <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
       </a> 
      <a href="https://pandas.pydata.org/" target="_blank">
@@ -142,7 +143,7 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
       </a> 
        
       
-    </td>
+   </td>
   </tr>
   <tr>
     <td><b>Database</b></td>
