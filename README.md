@@ -281,4 +281,4 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 </p>
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/RabbiTheAnalyst?style=social)](https://twitter.com/yourusername)  
+[![Twitter Follow](https://img.shields.io/twitter/follow/RabbiTheAnalyst?style=social)](https://twitter.com/RabbiTheAnalyst)  
