@@ -177,28 +177,25 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 </table>
 
 --- 
-## 🏆 GitHub Achievements & Contributions
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RabbiTheAnalyst&theme=algolia&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
+## 🏆 GitHub Profile Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RabbiTheAnalyst&theme=dark&hide_border=true&date_format=M%20j%2C%20Y" alt="GitHub Streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RabbiTheAnalyst&show_icons=true&theme=tokyonight&hide=contribs,prs&include_all_commits=true" alt="GitHub Stats" />
-</p>
+### 🏅 Achievement Trophies
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RabbiTheAnalyst&theme=onedark&row=2&column=4&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabbiTheAnalyst&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+### 📊 Activity Metrics
+| | |
+|:---:|:---:|
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RabbiTheAnalyst&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RabbiTheAnalyst&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&hide=issues&card_width=400) |
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RabbiTheAnalyst&theme=tokyonight" alt="Profile Summary" />
-</p>
+### 💻 Language Distribution
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RabbiTheAnalyst&layout=compact&theme=blueberry&hide_border=true&langs_count=8&hide=html,css,scss)
+
+### 📈 Contribution Analytics
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RabbiTheAnalyst&theme=github_dark)
+
+</div>
 
 
 ---
