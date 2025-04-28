@@ -79,8 +79,6 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
       </a>
       <br /><sub><b>WhatsApp</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://t.me/Rabbi_Bhai">
         <img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="40" alt="Telegram" />
