@@ -228,7 +228,7 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 --- 
 ## 📜 Certifications
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin: 20px 0;">
+<div align="left" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin: 20px 0;">
 
 <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #2b579a;">
   
