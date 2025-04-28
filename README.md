@@ -261,6 +261,41 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 
 
 --- 
+## 🏆 Featured Projects
+
+<style>
+  .project-card {
+    background: #f8f9fa;
+    border-left: 4px solid #2b579a;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 0 5px 5px 0;
+  }
+  .project-card:hover {
+    background: #f1f3f5;
+    transition: all 0.3s ease;
+  }
+</style>
+
+<div class="project-card">
+
+### 📚 **Statistical Handbook for Data Analysts**  
+[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RabbiTheAnalyst/My-Written-Book-Statistics-For-Data-Analysts/blob/main/Stat-Book-for-Data-Analyst%20.pdf)  
+✨ A professionally typeset LaTeX book covering essential statistical concepts  
+🔹 Hypothesis Testing | 🔹 Probability Distributions | 🔹 Regression Analysis
+
+</div>
+
+<div class="project-card">
+
+### 🚲 **Urban Mobility: Bike Share Analytics**  
+[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RabbiTheAnalyst/Bike-Share-Data-Analysis)  
+📈 Comprehensive analysis of bike-sharing patterns  
+🛠️ **Tech Stack**: Excel | SQL | Power BI
+
+</div>
+
+<!-- বাকি প্রজেক্টগুলো একইভাবে যোগ করুন -->
 
 ## 📩 How to Reach Me  
 <p align="center">
