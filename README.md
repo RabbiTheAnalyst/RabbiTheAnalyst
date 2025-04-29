@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/RabbiTheAnalyst/RabbiTheAnalyst/blob/main/Rabbi_Cover.png?raw=true" width="100%" alt="Cover Image"/>
+</p>
+
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
   Hi, I'm <span style="color:#6C63FF; text-shadow: 0px 2px 4px rgba(108,99,255,0.3);">Md. Rabbi Ali</span>
