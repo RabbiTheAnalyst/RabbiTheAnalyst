@@ -270,6 +270,13 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
   </table>
 </div>
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RabbiTheAnalyst&theme=algolia&row=2&column=4" alt="GitHub Trophies" />
+</p>
+
+
 ## 📊 Activity Dashboard
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 25px 0;">
