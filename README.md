@@ -8,12 +8,13 @@
   Hi, I'm <span style="color:#6C63FF; text-shadow: 0px 2px 4px rgba(108,99,255,0.3);">Md. Rabbi Ali</span>
 </h1>
 
-<h3 align="center" style="color:#6C63FF;">
-  <img src="https://img.icons8.com/ios-filled/20/6C63FF/graduation-cap.png"/> B.Sc in Statistics | Islamic University, Kushtia
+<h3 align="center" style="color: #6B7280; font-weight: 400; margin-bottom: 20px;">
+  <img src="https://img.icons8.com/ios-filled/20/4B5EAA/graduation-cap.png" style="vertical-align: middle;"/> 
+  B.Sc in Statistics | Islamic University, Kushtia
 </h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=6C63FF&center=true&vCenter=true&width=680&height=50&lines=Data+Scientist+%7C+Power+BI+Expert+%F0%9F%93%88;Python+%7C+SQL+%7C+Advanced+Excel+%F0%9F%92%BB;Turning+Raw+Data+Into+Strategic+Insights+%F0%9F%94%A5" alt="Typing Animation" />
+<div align="center" style="margin-bottom: 30px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=20&duration=3000&pause=1000&color=4B5EAA&center=true&vCenter=true&width=600&height=40&lines=Data+Scientist+%7C+Business+Intelligence+Expert;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Transforming+Data+into+Actionable+Insights" alt="Typing Animation" />
 </div>
 
 
@@ -47,33 +48,33 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 <div align="left" style="margin-bottom: 20px;">
   <table>
     <tr>
-      <td align="center" width="96" style="padding: 5px;">
+      <td align="center" width="80" style="padding: 4px;">
         <a href="mailto:rabbi.stat.iu@gmail.com">
-          <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" alt="Email" />
+          <img src="https://img.icons8.com/color/48/000000/gmail.png" width="32" alt="Email" />
         </a>
         <br /><sub><b>Email</b></sub>
       </td>
-      <td align="center" width="96" style="padding: 5px;">
+      <td align="center" width="80" style="padding: 4px;">
         <a href="https://www.linkedin.com/in/rabbi-the-analyst">
-          <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn" />
+          <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32" alt="LinkedIn" />
         </a>
         <br /><sub><b>LinkedIn</b></sub>
       </td>
-      <td align="center" width="96" style="padding: 5px;">
+      <td align="center" width="80" style="padding: 4px;">
         <a href="https://github.com/RabbiTheAnalyst">
-          <img src="https://img.icons8.com/fluent/48/000000/github.png" width="40" alt="GitHub" />
+          <img src="https://img.icons8.com/fluent/48/000000/github.png" width="32" alt="GitHub" />
         </a>
         <br /><sub><b>GitHub</b></sub>
       </td>
-      <td align="center" width="96" style="padding: 5px;">
+      <td align="center" width="80" style="padding: 4px;">
         <a href="https://wa.me/8801740083864">
-          <img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="40" alt="WhatsApp" />
+          <img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="32" alt="WhatsApp" />
         </a>
         <br /><sub><b>WhatsApp</b></sub>
       </td>
-      <td align="center" width="96" style="padding: 5px;">
+      <td align="center" width="80" style="padding: 4px;">
         <a href="https://t.me/Rabbi_Bhai">
-          <img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="40" alt="Telegram" />
+          <img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="32" alt="Telegram" />
         </a>
         <br /><sub><b>Telegram</b></sub>
       </td>
@@ -83,15 +84,15 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 
 ## 📊 Profile Analytics
 
-<div align="left" style="margin-top: 20px; margin-bottom: 20px;">
+<div align="left" style="margin: 30px 0;">
   <a href="https://github.com/RabbiTheAnalyst">
-    <img src="https://komarev.com/ghpvc/?username=RabbiTheAnalyst&label=PROFILE+VISITS&style=for-the-badge&color=3498db&logo=github&logoColor=white" alt="Profile Views" style="margin-right: 10px;"/>
+    <img src="https://komarev.com/ghpvc/?username=RabbiTheAnalyst&label=Profile+Views&style=flat-square&color=4B5EAA" alt="Profile Views" style="margin: 5px;"/>
   </a>
   <a href="https://github.com/RabbiTheAnalyst?tab=followers">
-    <img src="https://img.shields.io/github/followers/RabbiTheAnalyst?label=FOLLOWERS&style=for-the-badge&color=2ecc71&logo=github" alt="GitHub Followers" style="margin-right: 10px;"/>
+    <img src="https://img.shields.io/github/followers/RabbiTheAnalyst?label=Followers&style=flat-square&color=4B5EAA" alt="GitHub Followers" style="margin: 5px;"/>
   </a>
   <a href="https://github.com/RabbiTheAnalyst">
-    <img src="https://img.shields.io/github/stars/RabbiTheAnalyst?label=REPO+STARS&style=for-the-badge&color=f39c12&logo=github" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/stars/RabbiTheAnalyst?label=Stars&style=flat-square&color=4B5EAA" alt="GitHub Stars" style="margin: 5px;"/>
   </a>
 </div>
 
