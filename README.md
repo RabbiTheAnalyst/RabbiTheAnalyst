@@ -96,7 +96,7 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
   </a>
 </div>
 
-## 🛠️ Professional Tech Stack
+## 🛠️ Professional Tech Stack 👨‍💻
 
 <div align="left" style="margin: 30px 0;">
 
