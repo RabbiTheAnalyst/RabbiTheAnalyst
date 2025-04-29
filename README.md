@@ -270,15 +270,6 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
   </table>
 </div>
 
-## 🏆 GitHub Achievements
-
-<div align="left" style="margin: 30px 0; padding: 20px; background: #F3F4F6; border-radius: 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RabbiTheAnalyst&theme=chalk&no-bg=true&no-frame=true&row=2&column=4&margin-w=10&margin-h=10&title_color=4B5EAA&text_color=374151" alt="GitHub Trophies" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)';" onmouseout="this.style.transform='scale(1)';" />
-  </a>
-</div> 
-
-
 ## 📊 Activity Dashboard
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 25px 0;">
