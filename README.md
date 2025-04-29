@@ -25,9 +25,9 @@
   </h3>
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Data_Analyst-2F4F4F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjEgMTVhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWN2EyIDIgMCAwIDEgMi0yaDE0YTIgMiAwIDAgMSAyIDJ6Ii8+PHBhdGggZD0iTTcgMTBoMTAiLz48cGF0aCBkPSJNNyAxNGg0Ii8+PC9zdmc+" alt="Data Analyst" />
-  <img src="https://img.shields.io/badge/Power_BI_Expert-FF6B00?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI Expert" />
+<p align="center" style="margin-top: 15px;">
+  <img src="https://img.shields.io/badge/Data_Analysis-4B5EAA?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjEgMTVhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWN2EyIDIgMCAwIDEgMi0yaDE0YTIgMiAwIDAgMSAyIDJ6Ii8+PHBhdGggZD0iTTcgMTBoMTAiLz48cGF0aCBkPSJNNyAxNGg0Ii8+PC9zdmc+" alt="Data Analyst" />
+  <img src="https://img.shields.io/badge/Power_BI-FF9F1C?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI Expert" />
 </p>
 
 <div style="background: rgba(243, 156, 18, 0.05); padding: 20px; border-radius: 10px; border-left: 4px solid #f39c12; margin: 15px 0;">
@@ -97,147 +97,179 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 
 ## 🛠️ Professional Tech Stack
 
-<div align="left">
+<div align="left" style="margin: 30px 0;">
 
-### 🔧 Core Competencies
+### 🔧 Core Skills
 
 <table>
   <tr>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/000000/python.png" width="40"/>
-      <br><b>Python</b>
+    <td align="center" style="padding: 15px;">
+      <img src="https://img.icons8.com/color/48/python.png" width="40"/>
+      <br><b style="color: #4B5EAA;">Python</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/000000/sql.png" width="40"/>
-      <br><b>SQL</b>
+    <td align="center" style="padding: 15px;">
+      <img src="https://img.icons8.com/color/48/sql.png" width="40"/>
+      <br><b style="color: #4B5EAA;">SQL</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40"/>
-      <br><b>Power BI</b>
+    <td align="center" style="padding: 15px;">
+      <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
+      <br><b style="color: #4B5EAA;">Power BI</b>
     </td>
-    <td align="center" width="120">
+    <td align="center" style="padding: 15px;">
       <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/>
-      <br><b>Excel</b>
+      <br><b style="color: #4B5EAA;">Excel</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/000000/latex.png" width="40"/>
-      <br><b>LaTeX</b>
+    <td align="center" style="padding: 15px;">
+      <img src="https://img.icons8.com/color/48/latex.png" width="40"/>
+      <br><b style="color: #4B5EAA;">LaTeX</b>
     </td>
   </tr>
 </table>
 
-### 📚 Technology Matrix
 
-<table>
-  <tr>
-    <th>Category</th>
-    <th>Technologies</th>
+### 📊 Technology Matrix
+
+<table style="width: 80%; margin: 20px auto; border-collapse: collapse;">
+  <tr style="background: #F3F4F6;">
+    <th style="padding: 10px; color: #4B5EAA;">Category</th>
+    <th style="padding: 10px; color: #4B5EAA;">Technologies</th>
   </tr>
   <tr>
-    <td><b>Language</b></td>
-    <td>
-      <a href="https://www.python.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-      </a> 
-      <a href="https://www.iso.org/standard/76583.html" target="_blank">
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
-      </a>
+    <td style="padding: 10px; text-align: center;"><b>Programming</b></td>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
     </td>
   </tr>
   <tr>
-    <td><b>Data Visualization</b></td>
-    <td>
-      <a href="https://matplotlib.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib">
-      </a> 
-      <a href="https://seaborn.pydata.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Seaborn-1F77B4?style=flat-square&logo=seaborn&logoColor=white" alt="Seaborn">
-      </a> 
-      <a href="https://powerbi.microsoft.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
-      </a>
+    <td style="padding: 10px; text-align: center;"><b>Data Visualization</b></td>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib">
+      <img src="https://img.shields.io/badge/Seaborn-1F77B4?style=flat-square&logo=seaborn&logoColor=white" alt="Seaborn">
     </td>
   </tr>
   <tr>
-    <td><b>Data Handling</b></td>
-    <td>  
-     
-   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
-      </a> 
-     <a href="https://pandas.pydata.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-      </a> 
-      <a href="https://numpy.org/" target="_blank">
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-      </a> 
-       
-      
-   </td>
-  </tr>
-  <tr>
-    <td><b>Database</b></td>
-    <td>
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-      </a>
+    <td style="padding: 10px; text-align: center;"><b>Data Handling</b></td>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
     </td>
   </tr>
   <tr>
-    <td><b>Tools and Platforms</b></td>
-    <td>
-      <a href="https://jupyter.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-      </a> 
-      <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
-      </a> 
-     <a href="https://github.com/" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-      </a>
-      <a href="https://www.latex-project.org/" target="_blank">
-        <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
-      </a> 
-      <a href="https://www.kaggle.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle">
-      </a> 
-      
-   </td>
+    <td style="padding: 10px; text-align: center;"><b>Database</b></td>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+    </td>
   </tr>
-</table>  
+  <tr>
+    <td style="padding: 10px; text-align: center;"><b>Tools</b></td>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle">
+    </td>
+  </tr>
+</table>
+
+</div>
 
 --- 
 --- 
 ## 🏆 Featured Projects
 
-<div align="left">
-
-|   |   |   |
-|---|---|---|
-| 📚 **Statistical Handbook** | 🚲 **Bike Share Analytics** | 🏦 **Bank Loan Analysis** |
-| LaTeX book covering essential statistics | Urban mobility pattern analysis | Loan risk assessment (92% accuracy) |
-| [![View](https://img.shields.io/badge/PDF-2b579a?style=flat-square&logo=adobe-acrobat-reader)](https://github.com/RabbiTheAnalyst/My-Written-Book-Statistics-For-Data-Analysts/blob/main/Stat-Book-for-Data-Analyst%20.pdf) | [![View](https://img.shields.io/badge/Repo-2b579a?style=flat-square&logo=github)](https://github.com/RabbiTheAnalyst/Bike-Share-Data-Analysis) | [![View](https://img.shields.io/badge/Dashboard-2b579a?style=flat-square&logo=powerbi)](https://github.com/RabbiTheAnalyst/-Bank-Loan-Data-Analysis-) |
-
-|   |   |
-|---|---|
-| ⚓ **Titanic Survival** | 🎓 **CodSoft Internship** |
-| EDA & model (82% accuracy) | Data science projects collection |
-| [![View](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/code/mdrabbiali/titanic-dataset-eda-logistic-regression) | [![View](https://img.shields.io/badge/Portfolio-2b579a?style=flat-square&logo=github)](https://github.com/RabbiTheAnalyst/CODSOFT) |
-
+<div align="center" style="margin: 30px 0;">
+  <table style="width: 80%; border-collapse: collapse;">
+    <tr>
+      <td style="padding: 15px; text-align: center;">
+        <b style="color: #4B5EAA;">Statistical Handbook</b><br>
+        A comprehensive LaTeX book on statistics for data analysts.<br>
+        <a href="https://github.com/RabbiTheAnalyst/My-Written-Book-Statistics-For-Data-Analysts/blob/main/Stat-Book-for-Data-Analyst%20.pdf">
+          <img src="https://img.shields.io/badge/View_PDF-4B5EAA?style=flat-square&logo=adobe-acrobat-reader" alt="View PDF">
+        </a>
+      </td>
+      <td style="padding: 15px; text-align: center;">
+        <b style="color: #4B5EAA;">Bike Share Analytics</b><br>
+        Analysis of urban mobility patterns using Python and Power BI.<br>
+        <a href="https://github.com/RabbiTheAnalyst/Bike-Share-Data-Analysis">
+          <img src="https://img.shields.io/badge/View_Repo-4B5EAA?style=flat-square&logo=github" alt="View Repo">
+        </a>
+      </td>
+      <td style="padding: 15px; text-align: center;">
+        <b style="color: #4B5EAA;">Bank Loan Analysis</b><br>
+        Loan risk assessment dashboard with 92% accuracy.<br>
+        <a href="https://github.com/RabbiTheAnalyst/-Bank-Loan-Data-Analysis-">
+          <img src="https://img.shields.io/badge/View_Dashboard-4B5EAA?style=flat-square&logo=powerbi" alt="View Dashboard">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 15px; text-align: center;">
+        <b style="color: #4B5EAA;">Titanic Survival</b><br>
+        EDA and predictive modeling with 82% accuracy.<br>
+        <a href="https://www.kaggle.com/code/mdrabbiali/titanic-dataset-eda-logistic-regression">
+          <img src="https://img.shields.io/badge/View_Kaggle-20BEFF?style=flat-square&logo=kaggle" alt="View Kaggle">
+        </a>
+      </td>
+      <td style="padding: 15px; text-align: center;">
+        <b style="color: #4B5EAA;">CodSoft Internship</b><br>
+        Portfolio of data science projects.<br>
+        <a href="https://github.com/RabbiTheAnalyst/CODSOFT">
+          <img src="https://img.shields.io/badge/View_Portfolio-4B5EAA?style=flat-square&logo=github" alt="View Portfolio">
+        </a>
+      </td>
+      <td></td>
+    </tr>
+  </table>
 </div>
 
 ---  
 --- 
 ## 📜 Certifications
 
-| Certification | View my Certificate |
-|--------------|-------|
-| **Data Analysis with Python** | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://courses.cognitiveclass.ai/certificates/ec0db25f1c9f4e7585a292382ab09efd) |
-| **Business Analytics with Excel** | [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://certificates.simplicdn.net/share/7879958_81735291739024051747.pdf) |
-| **AI for Beginners** | [![AI](https://img.shields.io/badge/AI-FF6D00?style=for-the-badge&logo=ai&logoColor=white)](https://www.life-global.org/certificate/b93b6fba-a924-4657-9dda-7e10b2962948) |
-| **Master Microsoft Power BI** | [![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/RabbiTheAnalyst/Certificates/blob/main/Master%20Microsoft%20Power%20BI%20-%20Certificate.pdf) |
+<div align="left" style="margin: 30px 0;">
+  <table style="width: 80%; border-collapse: collapse;">
+    <tr style="background: #F3F4F6;">
+      <th style="padding: 10px; color: #4B5EAA;">Certification</th>
+      <th style="padding: 10px; color: #4B5EAA;">View</th>
+    </tr>
+    <tr>
+      <td style="padding: 10px; text-align: center;">Data Analysis with Python</td>
+      <td style="padding: 10px; text-align: center;">
+        <a href="https://courses.cognitiveclass.ai/certificates/ec0db25f1c9f4e7585a292382ab09efd">
+          <img src="https://img.shields.io/badge/View-4B5EAA?style=flat-square&logo=python" alt="Python">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; text-align: center;">Business Analytics with Excel</td>
+      <td style="padding: 10px; text-align: center;">
+        <a href="https://certificates.simplicdn.net/share/7879958_81735291739024051747.pdf">
+          <img src="https://img.shields.io/badge/View-4B5EAA?style=flat-square&logo=microsoft-excel" alt="Excel">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; text-align: center;">AI for Beginners</td>
+      <td style="padding: 10px; text-align: center;">
+        <a href="https://www.life-global.org/certificate/b93b6fba-a924-4657-9dda-7e10b2962948">
+          <img src="https://img.shields.io/badge/View-4B5EAA?style=flat-square" alt="AI">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; text-align: center;">Master Microsoft Power BI</td>
+      <td style="padding: 10px; text-align: center;">
+        <a href="https://github.com/RabbiTheAnalyst/Certificates/blob/main/Master%20Microsoft%20Power%20BI%20-%20Certificate.pdf">
+          <img src="https://img.shields.io/badge/View-4B5EAA?style=flat-square&logo=powerbi" alt="Power BI">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<div align="left">
 
 ## 🏆 Achievement Trophies
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RabbiTheAnalyst&theme=matrix&no-bg=true&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
@@ -279,11 +311,12 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 
 <h2 align="center">💡 Numbers don’t lie, but they need the right mind to reveal the truth 🌙</h2>
 
-<h1 align="center" style="color:#f39c12;">💼 Professional Data Analyst</h1>  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Md.%20Rabbi%20Ali-6C63FF?style=for-the-badge&logo=github&logoColor=white&labelColor=121212" alt="Made with ❤️ by Md. Rabbi Ali">
+<p align="center" style="margin-top: 20px;">
+  <img src="https://img.shields.io/badge/Made%20by-Md.%20Rabbi%20Ali-4B5EAA?style=flat-square&logo=github&logoColor=white" alt="Made by Md. Rabbi Ali">
 </p>
 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/RabbiTheAnalyst?style=social)](https://twitter.com/RabbiTheAnalyst)  
+<p align="center">
+  <a href="https://twitter.com/RabbiTheAnalyst">
+    <img src="https://img.shields.io/twitter/follow/RabbiTheAnalyst?style=social" alt="Twitter Follow">
+  </a>
+</p>
