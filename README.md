@@ -323,3 +323,5 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
     <img src="https://img.shields.io/twitter/follow/RabbiTheAnalyst?style=social" alt="Twitter Follow">
   </a>
 </p>
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
