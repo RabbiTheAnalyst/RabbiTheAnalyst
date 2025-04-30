@@ -324,4 +324,7 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
   </a>
 </p>
 
+
+<p align="center">
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+</p>
