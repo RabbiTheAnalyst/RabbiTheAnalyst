@@ -272,7 +272,7 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=RabbiTheAnalyst&theme=algolia&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
