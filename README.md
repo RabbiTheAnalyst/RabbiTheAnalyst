@@ -15,8 +15,7 @@
 
 <div align="center" style="margin-bottom: 30px;">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=20&duration=3000&pause=1000&color=4B5EAA&center=true&vCenter=true&width=600&height=40&lines=Data+Scientist+%7C+Business+Intelligence+Expert;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Transforming+Data+into+Actionable+Insights" alt="Typing Animation" />
-</div>
-
+</div> 
 
 ## 🌟 About Me
 
@@ -269,6 +268,57 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
     </tr>
   </table>
 </div>
+
+## 💼 Leadership Experience
+
+<div align="left">
+  <h3 style="color: #6C63FF; border-bottom: 2px solid #6C63FF; display: inline-block; padding-bottom: 5px; margin-top: 20px;">
+    <img src="https://img.icons8.com/ios-filled/20/6C63FF/conference-call.png"/> General Secretary
+  </h3>
+</div>
+
+**Meherpur Student Development Association (MESDA)**  
+📍 Islamic University, Kushtia | 🗓️ 2023 – 2024  
+[🔗 Association Website](https://shorturl.at/Sp0mb) |
+
+<div style="background: rgba(108, 99, 255, 0.05); padding: 15px; border-radius: 8px; border-left: 3px solid #6C63FF; margin: 10px 0;">
+<!-- Your content here -->
+</div>
+
+<div style="clear: both;"></div> <!-- This clears the float -->
+
+<table style="width: 80%; margin: 20px auto;"> <!-- Changed to center alignment -->
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/ios-filled/48/6C63FF/leader.png" width="36"/>
+      <br><b>Leadership</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/color/48/6C63FF/event-accepted.png" width="36"/>
+      <br><b>Event Planning</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/ios-filled/48/6C63FF/conference-call.png" width="36"/>
+      <br><b>Public Speaking</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/6C63FF/teamwork.png" width="36"/>
+      <br><b>Teamwork</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/ios-filled/48/6C63FF/organization.png" width="36"/>
+      <br><b>Organizational Development</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/ios-filled/48/6C63FF/speech-bubble.png" width="36"/>
+      <br><b>Communication</b>
+    </td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Achievements
 
