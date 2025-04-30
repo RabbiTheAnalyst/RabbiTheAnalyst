@@ -326,5 +326,7 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 
 
 <p align="center">
+  <a
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+  </a>
 </p>
