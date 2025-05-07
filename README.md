@@ -226,48 +226,25 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 
 ---  
 --- 
-## 📜 Certifications
+# 📜 Professional Certifications
 
-<div align="left" style="margin: 30px 0;">
-  <table style="width: 80%; border-collapse: collapse;">
-    <tr style="background: #F3F4F6;">
-      <th style="padding: 10px; color: #4B5EAA;">Certification</th>
-      <th style="padding: 10px; color: #4B5EAA;">View</th>
-    </tr>
-    <tr>
-      <td style="padding: 10px; text-align: center;">Data Analysis with Python</td>
-      <td style="padding: 10px; text-align: center;">
-        <a href="https://courses.cognitiveclass.ai/certificates/ec0db25f1c9f4e7585a292382ab09efd">
-          <img src="https://img.shields.io/badge/View-4B5EAA?style=flat-square&logo=python" alt="Python">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; text-align: center;">Business Analytics with Excel</td>
-      <td style="padding: 10px; text-align: center;">
-        <a href="https://certificates.simplicdn.net/share/7879958_81735291739024051747.pdf">
-          <img src="https://img.shields.io/badge/View-4B5EAA?style=flat-square&logo=microsoft-excel" alt="Excel">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; text-align: center;">AI for Beginners</td>
-      <td style="padding: 10px; text-align: center;">
-        <a href="https://www.life-global.org/certificate/b93b6fba-a924-4657-9dda-7e10b2962948">
-          <img src="https://img.shields.io/badge/View-4B5EAA?style=flat-square" alt="AI">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; text-align: center;">Master Microsoft Power BI</td>
-      <td style="padding: 10px; text-align: center;">
-        <a href="https://github.com/RabbiTheAnalyst/Certificates/blob/main/Master%20Microsoft%20Power%20BI%20-%20Certificate.pdf">
-          <img src="https://img.shields.io/badge/View-4B5EAA?style=flat-square&logo=powerbi" alt="Power BI">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+| Certification                     | Issuing Organization       | Credential Verification |
+|-----------------------------------|----------------------------|--------------------------|
+| **Microsoft Power BI Mastery**    | Alison                     | [![View](https://img.shields.io/badge/Verify_Certificate-1e3a8a?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/RabbiTheAnalyst/Certificates/blob/main/Master%20Microsoft%20Power%20BI%20-%20Certificate.pdf) |
+| **Data Analysis with Python**     | Cognitive Class (IBM)      | [![View](https://img.shields.io/badge/Verify_Certificate-1e3a8a?style=for-the-badge&logo=python&logoColor=white)](https://courses.cognitiveclass.ai/certificates/ec0db25f1c9f4e7585a292382ab09efd) |
+| **Business Analytics with Excel** | Simplilearn                | [![View](https://img.shields.io/badge/Verify_Certificate-1e3a8a?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://certificates.simplicdn.net/share/7879958_81735291739024051747.pdf) |
+| **AI Foundations**                | HP LIFE Global (AI Certification Course) | [![View](https://img.shields.io/badge/Verify_Certificate-1e3a8a?style=for-the-badge&logo=ai&logoColor=white)](https://www.life-global.org/certificate/b93b6fba-a924-4657-9dda-7e10b2962948) |
+
+## 🏆 Certification Highlights
+- Advanced Power BI data visualization expertise (Alison Certified)
+- Demonstrated skills in Python for data analysis (IBM-certified)
+- Professional business analytics using Microsoft Excel
+- Certified AI Foundations knowledge (LIFE Global)
+
+*Note: All certificates can be verified through the official links above.*
+
+---
+
 
 ## 💼 Leadership Experience
 
