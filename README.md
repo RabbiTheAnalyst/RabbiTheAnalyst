@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RabbiTheAnalyst/RabbiTheAnalyst/blob/main/Rabbi_Cover.png?raw=true" width="100%" alt="Cover Image"/>
+  <img src="https://github.com/RabbiTheAnalyst/RabbiTheAnalyst/blob/main/RabbiTheAnalyst_cover_image.png?raw=true" width="100%" alt="Cover Image"/>
 </p>
 
 
