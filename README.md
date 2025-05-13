@@ -191,7 +191,7 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
       </td>
       <td style="padding: 15px; text-align: center;">
         <b style="color: #4B5EAA;">Bike Share Analytics</b><br>
-        Analysis of urban mobility patterns using Python and Power BI.<br>
+        Analysis of urban mobility patterns using SQL and Power BI.<br>
         <a href="https://github.com/RabbiTheAnalyst/Bike-Share-Data-Analysis">
           <img src="https://img.shields.io/badge/View_Repo-4B5EAA?style=flat-square&logo=github" alt="View Repo">
         </a>
@@ -214,7 +214,7 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
       </td>
       <td style="padding: 15px; text-align: center;">
         <b style="color: #4B5EAA;">CodSoft Internship</b><br>
-        Portfolio of data science projects.<br>
+        Portfolio of data science projects using Python.<br>
         <a href="https://github.com/RabbiTheAnalyst/CODSOFT">
           <img src="https://img.shields.io/badge/View_Portfolio-4B5EAA?style=flat-square&logo=github" alt="View Portfolio">
         </a>
