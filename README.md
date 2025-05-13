@@ -228,15 +228,19 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 --- 
 # 📜 Professional Certifications
 
-| Certification                     | Issuing Organization       | Credential Verification |
-|-----------------------------------|----------------------------|--------------------------|
-| **Master Microsoft Power BI**    | Alison                     | [![Verify](https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/RabbiTheAnalyst/Certificates/blob/main/Alison_Certificate-3876-45694989.pdf) |
-| **Data Analysis with Python**     | Cognitive Class (IBM)      | [![Verify](https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge&logo=python&logoColor=white)](https://courses.cognitiveclass.ai/certificates/ec0db25f1c9f4e7585a292382ab09efd) |
-| **Business Analytics with Excel** | Simplilearn                | [![Verify](https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://certificates.simplicdn.net/share/7879958_81735291739024051747.pdf) |
-| **AI Foundations**                | HP LIFE Global (AI Certification Course) | [![Verify](https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge&logo=openai&logoColor=white)](https://www.life-global.org/certificate/b93b6fba-a924-4657-9dda-7e10b2962948) |
-
+| Certification                                | Issuing Organization                | Credential Verification |
+|----------------------------------------------|-------------------------------------|--------------------------|
+| **IBM Data Analyst Professional Certificate** | Coursera (IBM Skills Network)       | [![Verify](https://img.shields.io/badge/Verify-%231e3a8a?style=for-the-badge)](https://coursera.org/verify/professional-cert/DPLGX1488P99) |
+| **Programming for Everybody (Getting Started with Python)** | University of Michigan (Coursera) | [![Verify](https://img.shields.io/badge/Verify-%231e3a8a?style=for-the-badge)](https://coursera.org/verify/3S310N38N27N) |
+| **Master Microsoft Power BI**               | Alison                              | [![Verify](https://img.shields.io/badge/Verify-%231e3a8a?style=for-the-badge)](https://github.com/RabbiTheAnalyst/Certificates/blob/main/Alison_Certificate-3876-45694989.pdf) |
+| **Business Analytics with Excel**           | Simplilearn                         | [![Verify](https://img.shields.io/badge/Verify-%231e3a8a?style=for-the-badge)](https://certificates.simplicdn.net/share/7879958_81735291739024051747.pdf) |
+| **Data Analysis with Python**               | Cognitive Class (IBM)               | [![Verify](https://img.shields.io/badge/Verify-%231e3a8a?style=for-the-badge)](https://courses.cognitiveclass.ai/certificates/ec0db25f1c9f4e7585a292382ab09efd) |
+| **AI Foundations**                          | HP LIFE Global                      | [![Verify](https://img.shields.io/badge/Verify-%231e3a8a?style=for-the-badge)](https://www.life-global.org/certificate/b93b6fba-a924-4657-9dda-7e10b2962948) |
 
 *Note: All certificates can be verified through the official links above.*
+
+
+
 
 ## 💼 Leadership Experience
 
