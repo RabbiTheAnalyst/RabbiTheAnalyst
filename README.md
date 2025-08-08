@@ -122,6 +122,10 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
     <td align="center" style="padding: 12px;">
       <img src="https://img.icons8.com/color/48/latex.png" width="36"/>
       <br><b style="color: #4B5EAA; font-size: 14px;">LaTeX</b>
+    </td> 
+    <td align="center" style="padding: 12px;">
+      <img src="https://img.icons8.com/color/48/google-data-studio.png" width="36"/>
+      <br><b style="color: #4B5EAA; font-size: 14px;">Looker Studio</b>
     </td>
   </tr>
 </table>
