@@ -236,7 +236,8 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 | **Business Analytics with Excel**           | Simplilearn                         | [![Verify](https://img.shields.io/badge/Verify-%231e3a8a?style=for-the-badge)](https://certificates.simplicdn.net/share/7879958_81735291739024051747.pdf) |
 | **Data Analysis with Python**               | Cognitive Class (IBM)               | [![Verify](https://img.shields.io/badge/Verify-%231e3a8a?style=for-the-badge)](https://courses.cognitiveclass.ai/certificates/ec0db25f1c9f4e7585a292382ab09efd) |
 | **AI Foundations**                          | HP LIFE Global                      | [![Verify](https://img.shields.io/badge/Verify-%231e3a8a?style=for-the-badge)](https://www.life-global.org/certificate/b93b6fba-a924-4657-9dda-7e10b2962948) | 
-| **Data Analysis with Excel**                | FutureNation x Grameenphone         | [![Verify](https://img.shields.io/badge/Verify-%231e3a8a?style=for-the-badge)]([https://your-certificate-link](https://github.com/RabbiTheAnalyst/Certificates/blob/main/Data%20Analysis%20with%20Excel-CERTIFICATE.pdf)) |
+| **Data Analysis with Excel**                | FutureNation x Grameenphone         | [![Verify](https://img.shields.io/badge/Verify-%231e3a8a?style=for-the-badge)](https://github.com/RabbiTheAnalyst/Certificates/blob/main/Data%20Analysis%20with%20Excel-CERTIFICATE.pdf) |
+
 
 *Note: All certificates can be verified through the official links above.*
 
