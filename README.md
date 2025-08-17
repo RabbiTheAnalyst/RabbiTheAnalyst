@@ -217,7 +217,6 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 </div>
 
 --- 
---- 
 ## 🏆 Featured Projects
 
 <div align="center" style="margin: 30px 0;">
