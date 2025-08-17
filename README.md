@@ -10,7 +10,7 @@
 
 <h3 align="center" style="color: #6B7280; font-weight: 400; margin-bottom: 20px;">
   <img src="https://img.icons8.com/ios-filled/20/4B5EAA/graduation-cap.png" style="vertical-align: middle;"/> 
-  B.Sc in Statistics | Islamic University, Kushtia
+  B.Sc & M.Sc in Statistics | Islamic University, Kushtia
 </h3>
 
 <div align="center" style="margin-bottom: 30px;">
