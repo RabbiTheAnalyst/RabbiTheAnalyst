@@ -169,52 +169,54 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 
 ### 📊 Technology Matrix
 
-<table style="width: 80%; margin: 20px auto; border-collapse: collapse;">
-  <tr style="background: #F3F4F6;">
-    <th style="padding: 10px; color: #4B5EAA;">Category</th>
-    <th style="padding: 10px; color: #4B5EAA;">Technologies</th>
+<table style="width: 95%; margin: 20px auto; border-collapse: collapse; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
+  <tr style="background: #4B5EAA; color: white; text-align: center;">
+    <th style="padding: 12px; width: 20%;">Category</th>
+    <th style="padding: 12px; width: 80%;">Technologies</th>
   </tr>
-  <tr>
+  <tr style="background: #F9FAFB;">
     <td style="padding: 10px; text-align: center;"><b>Programming</b></td>
     <td style="padding: 10px;">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
     </td>
   </tr>
-  <tr>
+  <tr style="background: #FFFFFF;">
     <td style="padding: 10px; text-align: center;"><b>Data Visualization</b></td>
     <td style="padding: 10px;">
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib">
-      <img src="https://img.shields.io/badge/Seaborn-1F77B4?style=flat-square&logo=seaborn&logoColor=white" alt="Seaborn">
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib">
+      <img src="https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge&logo=databricks&logoColor=white" alt="Seaborn">
     </td>
   </tr>
-  <tr>
+  <tr style="background: #F9FAFB;">
     <td style="padding: 10px; text-align: center;"><b>Data Handling</b></td>
     <td style="padding: 10px;">
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
     </td>
   </tr>
-  <tr>
+  <tr style="background: #FFFFFF;">
     <td style="padding: 10px; text-align: center;"><b>Database</b></td>
     <td style="padding: 10px;">
-      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
     </td>
   </tr>
-  <tr>
+  <tr style="background: #F9FAFB;">
     <td style="padding: 10px; text-align: center;"><b>Tools</b></td>
     <td style="padding: 10px;">
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle">
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
     </td>
   </tr>
 </table>
 
-</div>
+---
+✨ *Showcasing technologies that I use for data analysis, visualization & documentation.*
+
 
 --- 
 ## 🏆 Featured Projects
