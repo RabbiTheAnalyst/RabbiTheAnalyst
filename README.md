@@ -214,7 +214,6 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
   </tr>
 </table>
 
----
 ✨ *Showcasing technologies that I use for data analysis, visualization & documentation.*
 
 
@@ -267,7 +266,6 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 </div>
 
 ---  
---- 
 # 📜 Professional Certifications
 
 | Certification                                | Issuing Organization                | Credential Verification |
