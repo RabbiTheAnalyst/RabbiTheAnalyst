@@ -102,26 +102,22 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 ### 🔧 Core Skills
 
 <table>
-  <tr>
+  <tr> 
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://img.icons8.com/color/48/power-bi.png" width="36"/>
+      <br><b style="color: #4B5EAA; font-size: 14px;">Power BI</b>
+    </td> 
     <td align="center" style="padding: 12px;">
       <img src="https://img.icons8.com/color/48/python.png" width="36"/>
       <br><b style="color: #4B5EAA; font-size: 14px;">Python</b>
     </td>
     <td align="center" style="padding: 12px;">
       <img src="https://img.icons8.com/color/48/sql.png" width="36"/>
-      <br><b style="color: #4B5EAA; font-size: 14px;">SQL</b>
-    </td>
-    <td align="center" style="padding: 12px;">
-      <img src="https://img.icons8.com/color/48/power-bi.png" width="36"/>
-      <br><b style="color: #4B5EAA; font-size: 14px;">Power BI</b>
-    </td>
+      <br><b style="color: #4B5EAA; font-size: 14px;">SQL</b> 
     <td align="center" style="padding: 12px;">
       <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="36"/>
       <br><b style="color: #4B5EAA; font-size: 14px;">Excel</b>
-    </td>
-    <td align="center" style="padding: 12px;">
-      <img src="https://img.icons8.com/color/48/latex.png" width="36"/>
-      <br><b style="color: #4B5EAA; font-size: 14px;">LaTeX</b>
     </td> 
     <td align="center" style="padding: 12px;">
       <img src="https://img.icons8.com/color/48/google-data-studio.png" width="36"/>
