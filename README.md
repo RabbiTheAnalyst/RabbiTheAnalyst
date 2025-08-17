@@ -266,17 +266,78 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
 </div>
 
 ---  
-# 📜 Professional Certifications
+# 📜 Professional Certifications  
 
-| Certification                                | Issuing Organization                | Credential Verification |
-|----------------------------------------------|-------------------------------------|--------------------------|
-| **IBM Data Analyst Professional Certificate** | Coursera (IBM Skills Network)       | [![Verify](https://img.shields.io/badge/Verify-%231e3a8a?style=for-the-badge)](https://coursera.org/verify/professional-cert/DPLGX1488P99) |
-| **Programming for Everybody (Getting Started with Python)** | University of Michigan (Coursera) | [![Verify](https://img.shields.io/badge/Verify-%231e3a8a?style=for-the-badge)](https://coursera.org/verify/3S310N38N27N) |
-| **Master Microsoft Power BI**               | Alison                              | [![Verify](https://img.shields.io/badge/Verify-%231e3a8a?style=for-the-badge)](https://github.com/RabbiTheAnalyst/Certificates/blob/main/Alison_Certificate-3876-45694989.pdf) |
-| **Business Analytics with Excel**           | Simplilearn                         | [![Verify](https://img.shields.io/badge/Verify-%231e3a8a?style=for-the-badge)](https://certificates.simplicdn.net/share/7879958_81735291739024051747.pdf) |
-| **Data Analysis with Python**               | Cognitive Class (IBM)               | [![Verify](https://img.shields.io/badge/Verify-%231e3a8a?style=for-the-badge)](https://courses.cognitiveclass.ai/certificates/ec0db25f1c9f4e7585a292382ab09efd) |
-| **AI Foundations**                          | HP LIFE Global                      | [![Verify](https://img.shields.io/badge/Verify-%231e3a8a?style=for-the-badge)](https://www.life-global.org/certificate/b93b6fba-a924-4657-9dda-7e10b2962948) | 
-| **Data Analysis with Excel**                | FutureNation x Grameenphone         | [![Verify](https://img.shields.io/badge/Verify-%231e3a8a?style=for-the-badge)](https://github.com/RabbiTheAnalyst/Certificates/blob/main/Data%20Analysis%20with%20Excel-CERTIFICATE.pdf) |
+<div align="left" style="margin: 30px 0;">
+  <table style="width: 95%; border-collapse: separate; border-spacing: 20px;">
+    <tr>
+      <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+        <img src="https://img.icons8.com/color/48/ibm.png" width="40"/><br>
+        <b>IBM Data Analyst Professional Certificate</b><br>
+        <i>Coursera (IBM Skills Network)</i><br><br>
+        <a href="https://coursera.org/verify/professional-cert/DPLGX1488P99">
+          <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+        </a>
+      </td>
+      <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+  <img src="https://img.icons8.com/color/48/python.png" width="36"/>
+      
+  <b>Programming for Everybody (Python)</b><br>
+  <i>University of Michigan (Coursera)</i><br><br>
+  <a href="https://coursera.org/verify/3S310N38N27N">
+    <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+  </a>
+</td>
+      <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+        <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/><br>
+        <b>Master Microsoft Power BI</b><br>
+        <i>Alison</i><br><br>
+        <a href="https://github.com/RabbiTheAnalyst/Certificates/blob/main/Alison_Certificate-3876-45694989.pdf">
+          <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+        <img src="https://img.icons8.com/color/48/ms-excel.png" width="40"/><br>
+        <b>Business Analytics with Excel</b><br>
+        <i>Simplilearn</i><br><br>
+        <a href="https://certificates.simplicdn.net/share/7879958_81735291739024051747.pdf">
+          <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+        </a>
+      </td>
+      <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+        <img src="https://img.icons8.com/color/48/ibm.png" width="40"/><br>
+        <b>Data Analysis with Python</b><br>
+        <i>Cognitive Class (IBM)</i><br><br>
+        <a href="https://courses.cognitiveclass.ai/certificates/ec0db25f1c9f4e7585a292382ab09efd">
+          <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+        </a>
+      </td>
+      <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/HP_logo_2012.svg" width="60"/><br>
+        <b>AI Foundations</b><br>
+        <i>HP LIFE Global</i><br><br>
+        <a href="https://www.life-global.org/certificate/b93b6fba-a924-4657-9dda-7e10b2962948">
+          <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+        <img src="https://img.icons8.com/color/48/ms-excel.png" width="40"/><br>
+        <b>Data Analysis with Excel</b><br>
+        <i>FutureNation x Grameenphone</i><br><br>
+        <a href="https://github.com/RabbiTheAnalyst/Certificates/blob/main/Data%20Analysis%20with%20Excel-CERTIFICATE.pdf">
+          <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+        </a>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</div>  
+ 
 
 
 *Note: All certificates can be verified through the official links above.*
