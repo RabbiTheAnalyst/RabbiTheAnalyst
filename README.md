@@ -128,7 +128,48 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
       <br><b style="color: #4B5EAA; font-size: 14px;">Looker Studio</b>
     </td>
   </tr>
+</table> 
+
+### 🖥️ Development Tools
+
+<table>
+  <tr>
+    <td align="center" style="padding: 12px;">
+      <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="36"/>
+      <br><b style="color: #4B5EAA; font-size: 14px;">VS Code</b>
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://img.icons8.com/fluency/48/jupyter.png" width="36"/>
+      <br><b style="color: #4B5EAA; font-size: 14px;">Jupyter Notebook</b>
+    </td>
+  </tr>
 </table>
+
+
+
+### 📑 Documentation Tools
+
+<table>
+  <tr>
+    <td align="center" style="padding: 12px;">
+      <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="36"/>
+      <br><b style="color: #4B5EAA; font-size: 14px;">MS Word</b>
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="36"/>
+      <br><b style="color: #4B5EAA; font-size: 14px;">PowerPoint</b>
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://img.icons8.com/color/48/latex.png" width="36"/>
+      <br><b style="color: #4B5EAA; font-size: 14px;">LaTeX</b>
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://img.icons8.com/color/48/canva.png" width="36"/>
+      <br><b style="color: #4B5EAA; font-size: 14px;">Canva</b>
+    </td>
+  </tr>
+</table>
+
 
 ### 📊 Technology Matrix
 
