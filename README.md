@@ -314,14 +314,14 @@ With a statistician's precision and storyteller's flair, I bridge the gap betwee
           <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
         </a>
       </td>
-      <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/HP_logo_2012.svg" width="60"/><br>
-        <b>AI Foundations</b><br>
-        <i>HP LIFE Global</i><br><br>
-        <a href="https://www.life-global.org/certificate/b93b6fba-a924-4657-9dda-7e10b2962948">
-          <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
-        </a>
-      </td>
+     <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40"/><br>
+  <b>AI Foundations</b><br>
+  <i>HP LIFE Global</i><br><br>
+  <a href="https://www.life-global.org/certificate/b93b6fba-a924-4657-9dda-7e10b2962948">
+    <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+  </a>
+</td>
     </tr>
     <tr>
       <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
